@@ -46,7 +46,7 @@ https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pd
 * [Identifying Malware Traffic with Bro and the Collective Intelligence Framework (CIF)](http://blog.opensecurityresearch.com/2014/03/identifying-malware-traffic-with-bro.html)
 * [Sysmon DFIR](https://github.com/MHaggis/sysmon-dfir)
 * [Cyberdog WarLab](https://cyberwardog.blogspot.com/)
-
+* [Expert Investigation Guide](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
 
 [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
 [exploit-db](https://www.exploit-db.com/) | Collection of exploit from various sources, concentrated in one database.
