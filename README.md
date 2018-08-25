@@ -52,6 +52,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [DFIR Challenges and Images](https://www.dfir.training/tools/test-images-and-challenges)
 * [Data Leakage Case Scenario with Images](https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html)* 
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
+* [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 
 * [McAfee Quarterly Threat Reports Sept2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 
