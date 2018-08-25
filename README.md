@@ -35,7 +35,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ### Vulnerable Machines
 
-* [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)|Rebootuser has about 3 VMs, with a breif summary of the task you are to complete
+* [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
 * [Vulnhub](https://www.vulnhub.com/)
 
 ### Threat Hunting
