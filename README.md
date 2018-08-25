@@ -49,7 +49,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Expert Investigation Guide](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
 * [Detecting Lateral Movement through Tracking Event Logs](https://blog.jpcert.or.jp/2017/06/1-ae0d.html)
 
-* [McAfee Quarterly Threat Reports Sept2017]https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf
+* [McAfee Quarterly Threat Reports Sept2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 
 [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
 [exploit-db](https://www.exploit-db.com/) | Collection of exploit from various sources, concentrated in one database.
