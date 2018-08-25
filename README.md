@@ -49,6 +49,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Expert Investigation Guide](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
 * [Detecting Lateral Movement through Tracking Event Logs](https://blog.jpcert.or.jp/2017/06/1-ae0d.html)
 * [Windows Event Logs to Detect Lateral Movement Rapid7-Video](https://www.rapid7.com/resources/using-windows-event-logs-to-detect-lateral-movement/)
+* [DFIR Challenges and Images](https://www.dfir.training/tools/test-images-and-challenges)
 
 * [McAfee Quarterly Threat Reports Sept2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 
