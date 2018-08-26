@@ -4,10 +4,10 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 
 ## Table of Contents
- * [Youtube Channels, Information Security News Sites & Blogs](#youtube-channels,-information-security-news-sites-&-blogs)
- * [Reverse Engineering, Shellcoding and Malware Analysis](#reverse-engineering,-shellcoding-and-malware-analysis)
+ * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
+ * [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
  * [General Penetration Testing](#general-penetration-testing)
- * [Scanning & Reconnaissance](#scanning-and-reconnaissance)
+ * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
  * [Explotation](#exploitation)
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
@@ -15,13 +15,13 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Threat Hunting & DFIR](#threat-hunting-dfir)
  * [Miscellaneous](#miscellaneous)
 
-### Youtube Channels, Information Security News Sites & Blogs
+### Youtube Channels Information Security News Sites and Blogs
 
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [The NewBoston](https://www.youtube.com/user/thenewboston)
 * [1337red Blog](https://1337red.wordpress.com/)
 
-### Reverse Engineering, Shellcoding and Malware Analysis
+### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
