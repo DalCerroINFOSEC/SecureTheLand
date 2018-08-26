@@ -4,7 +4,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 
 ## Table of Contents
- * [Youtube Channels](#youtube-channels)
+ * [Youtube Channels, Information Security News Sites & Blogs](#youtube-channels,-information-security-news-sites-&-blogs)
  * [General Penetration Testing](#general-penetration-testing)
  * [Scanning & Reconnaissance](#scanning-&-reconnaissance)
  * [Explotation](#exploitation)
@@ -12,12 +12,13 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
  * [Threat Hunting & DFIR](#threat-hunting-dfir)
+ * [Miscellaneous](#miscellaneous)
 
-### YouTube Channels
+### Youtube Channels, Information Security News Sites & Blogs
 
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [The NewBoston](https://www.youtube.com/user/thenewboston)
-A channel devotated to various programming classes
+* [1337red Blog](https://1337red.wordpress.com/)
 
 ### General Penetration Testing
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
@@ -51,6 +52,10 @@ A channel devotated to various programming classes
 * [Techniques for spawning shells Via lanmaster53](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 * [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
 
+### Attacking Active Directory
+* [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
+* [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
+
 
 ### Vulnerable Machines
 
@@ -74,6 +79,7 @@ A channel devotated to various programming classes
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 
 
-
+### Miscellaneous
+[Active Directory Resources](https://adsecurity.org/?page_id=41)
 
 
