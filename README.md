@@ -7,7 +7,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Youtube Channels, Information Security News Sites & Blogs](#youtube-channels,-information-security-news-sites-&-blogs)
  * [Reverse Engineering, Shellcoding and Malware Analysis](#reverse-engineering,-shellcoding-and-malware-analysis)
  * [General Penetration Testing](#general-penetration-testing)
- * [Scanning & Reconnaissance](#scanning-&-reconnaissance)
+ * [Scanning & Reconnaissance](#scanning-and-reconnaissance)
  * [Explotation](#exploitation)
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
@@ -30,7 +30,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
 * [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
 
-### Scanning & Reconnaissance
+### Scanning And Reconnaissance
 
 * [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
 [exploit-db](https://www.exploit-db.com/) 
