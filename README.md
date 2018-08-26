@@ -5,6 +5,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Table of Contents
  * [Youtube Channels, Information Security News Sites & Blogs](#youtube-channels,-information-security-news-sites-&-blogs)
+ * [Reverse Engineering, Shellcoding and Malware Analysis](#reverse-engineering,-shellcoding-and-malware-analysis)
  * [General Penetration Testing](#general-penetration-testing)
  * [Scanning & Reconnaissance](#scanning-&-reconnaissance)
  * [Explotation](#exploitation)
@@ -19,6 +20,10 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [The NewBoston](https://www.youtube.com/user/thenewboston)
 * [1337red Blog](https://1337red.wordpress.com/)
+
+### Reverse Engineering, Shellcoding and Malware Analysis
+[bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
+[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ### General Penetration Testing
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
