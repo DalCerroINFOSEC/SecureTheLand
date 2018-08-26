@@ -66,6 +66,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 * [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
 * [Vulnhub](https://www.vulnhub.com/)
+* [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
 
 ### Threat Hunting DFIR
 
