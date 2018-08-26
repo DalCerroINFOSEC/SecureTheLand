@@ -82,4 +82,3 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Miscellaneous
 [Active Directory Resources](https://adsecurity.org/?page_id=41)
 
-
