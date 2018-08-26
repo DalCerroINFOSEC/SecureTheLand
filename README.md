@@ -5,6 +5,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Table of Contents
  * [Youtube Channels](#youtube-channels)
+ * [General Penetration Testing](#general-penetration-testing)
  * [Scanning & Reconnaissance](#scanning-&-reconnaissance)
  * [Explotation](#exploitation)
  * [Privilege Escalation](#privilege-escalation)
@@ -17,6 +18,11 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [The NewBoston](https://www.youtube.com/user/thenewboston)
 A channel devotated to various programming classes
+
+### General Penetration Testing
+* [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
+* [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
+* [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
 
 ### Scanning & Reconnaissance
 
@@ -55,7 +61,7 @@ A quick/dirty python utility that generates a zip containing a “malicious” .
 ### Threat Hunting DFIR
 
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
-* [McCafee Quarterly Reports](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
+* [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 * [Targeted Ransomware](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 * [Identifying Malware Traffic with Bro and the Collective Intelligence Framework (CIF)](http://blog.opensecurityresearch.com/2014/03/identifying-malware-traffic-with-bro.html)
 * [Sysmon DFIR](https://github.com/MHaggis/sysmon-dfir)
@@ -68,14 +74,7 @@ A quick/dirty python utility that generates a zip containing a “malicious” .
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 
-* [McAfee Quarterly Threat Reports Sept2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 
 
-[Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html) | Awesome guide to Penetration testing methodology
-
-[Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet) | Quality cheat sheets from setting up a SOCKS server to SQLi
-
-
-https://hackmag.com/security/ad-forest/ | The Forest Is Under Control. Taking over the entire Active Directory forest
 
 
