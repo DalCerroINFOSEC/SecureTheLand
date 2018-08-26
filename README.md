@@ -10,7 +10,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
- * [Threat Hunting](#threat-hunting)
+ * [Threat Hunting & DFIR](#threat-hunting-DFIR)
 
 ### YouTube Channels
 
@@ -52,7 +52,7 @@ A quick/dirty python utility that generates a zip containing a “malicious” .
 * [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
 * [Vulnhub](https://www.vulnhub.com/)
 
-### Threat Hunting
+### Threat Hunting DFIR
 
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [McCafee Quarterly Reports](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
