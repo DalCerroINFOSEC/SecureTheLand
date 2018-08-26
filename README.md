@@ -22,8 +22,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [1337red Blog](https://1337red.wordpress.com/)
 
 ### Reverse Engineering, Shellcoding and Malware Analysis
-[bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
-[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
+* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ### General Penetration Testing
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
