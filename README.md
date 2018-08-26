@@ -5,6 +5,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Table of Contents
  * [Youtube Channels](#youtube-channels)
+ * [Scanning & Reconnaissance](#scanning-&-reconnaissance)
+ * [Explotation](#exploitation)
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
@@ -13,6 +15,16 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### YouTube Channels
 
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB) | Presentations from Black Hat Europe 2017
+
+### Scanning & Reconnaissance
+
+* [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
+[exploit-db](https://www.exploit-db.com/) 
+
+### Exploitation
+
+[Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html)
+A quick/dirty python utility that generates a zip containing a “malicious” .desktop (aka shortcut) file that masquerades as a PDF file (not really, sort of).
 
 ### Privilege Escalation
 
@@ -56,8 +68,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 * [McAfee Quarterly Threat Reports Sept2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 
-[Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
-[exploit-db](https://www.exploit-db.com/) | Collection of exploit from various sources, concentrated in one database.
 
 [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html) | Awesome guide to Penetration testing methodology
 
@@ -66,4 +76,4 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 https://hackmag.com/security/ad-forest/ | The Forest Is Under Control. Taking over the entire Active Directory forest
 
-[Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html) | A quick/dirty python utility that generates a zip containing a “malicious” .desktop (aka shortcut) file that masquerades as a PDF file (not really, sort of).
+
