@@ -10,7 +10,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
- * [Threat Hunting & DFIR](#threat-hunting-DFIR)
+ * [Threat Hunting & DFIR](#threat-hunting-dfir)
 
 ### YouTube Channels
 
