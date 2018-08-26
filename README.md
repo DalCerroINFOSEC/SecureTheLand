@@ -31,8 +31,8 @@ A channel devotated to various programming classes
 
 ### Exploitation
 
-[Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html)
- .{small} A quick/dirty python utility that generates a zip containing a “malicious” .desktop (aka shortcut) file that masquerades as a PDF file (not really, sort of).
+* [Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html)
+  -A quick/dirty python utility that generates a zip containing a “malicious” .desktop (aka shortcut) file that masquerades as a PDF file (not really, sort of).
 
 ### Privilege Escalation
 
