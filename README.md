@@ -23,7 +23,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### General Penetration Testing
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
-* [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
 
 ### Scanning & Reconnaissance
 
@@ -55,6 +54,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Attacking Active Directory
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
+* [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
 
 
 ### Vulnerable Machines
