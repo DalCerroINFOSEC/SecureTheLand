@@ -28,6 +28,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### General Penetration Testing
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
+* [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
 
 ### Scanning & Reconnaissance
 
