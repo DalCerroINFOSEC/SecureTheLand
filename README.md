@@ -15,6 +15,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### YouTube Channels
 
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB) | Presentations from Black Hat Europe 2017
+* [The NewBoston](https://www.youtube.com/user/thenewboston)
+A channel devotated to various programming classes
 
 ### Scanning & Reconnaissance
 
