@@ -86,7 +86,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Data Leakage Case Scenario with Images](https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html)* 
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
-
+* [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ### Miscellaneous
 [Active Directory Resources](https://adsecurity.org/?page_id=41)
