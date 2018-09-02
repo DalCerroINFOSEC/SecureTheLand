@@ -35,7 +35,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Scanning And Reconnaissance
 
 * [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
-[exploit-db](https://www.exploit-db.com/) 
+* [netstat without netstat](https://staaldraad.github.io/2017/12/20/netstat-without-netstat/)
+* [exploit-db](https://www.exploit-db.com/) 
+
 
 ### Exploitation
 
@@ -66,6 +68,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
 * [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
 
+### Password Lists
+* [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
+
 
 ### Vulnerable Machines
 
@@ -91,5 +96,5 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ### Miscellaneous
-[Active Directory Resources](https://adsecurity.org/?page_id=41)
-
+* [Active Directory Resources](https://adsecurity.org/?page_id=41)
+* [Free Splunk Training + Splunk User Certification](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
