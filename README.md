@@ -44,14 +44,16 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Privilege Escalation
 
 * [Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation)
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+* [Unix-Prvesc-check via pentest monkey](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+* [A Linux alternative to enum.exe via Portcullis](https://labs.portcullis.co.uk/tools/enum4linux/)
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+* [UNIX-PrivEsc](https://github.com/FuzzySecurity/Unix-PrivEsc)
+* [Manual Local Hash Extraction via lanmaster53](https://www.lanmaster53.com/2013/05/24/manual-local-hash-extraction/)
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [Windows Post Exploitation Command List](http://tim3warri0r.blogspot.com/)
 * [A Checklist for Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
-* [Unix-Prvesc-check via pentest monkey](http://pentestmonkey.net/tools/audit/unix-privesc-check)
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
-* [Manual Local Hash Extraction via lanmaster53](https://www.lanmaster53.com/2013/05/24/manual-local-hash-extraction/)
-* [A Linux alternative to enum.exe via Portcullis](https://labs.portcullis.co.uk/tools/enum4linux/)
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+
 
 ### Web App
 
