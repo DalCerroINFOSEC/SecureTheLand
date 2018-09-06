@@ -26,6 +26,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ### General Penetration Testing
+* [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
+* [Abatchys Blog - How-to-prepare-for-pwkoscp](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md)
 * [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
 * [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
