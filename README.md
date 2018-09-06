@@ -21,6 +21,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [The NewBoston](https://www.youtube.com/user/thenewboston)
 * [1337red Blog](https://1337red.wordpress.com/)
 
+* [Abatchys Blog](https://www.abatchy.com/)
+Abatchys Blog is a collection of Vulnerable VM Walkthroughs, Windows Kernal Exploitation, as well as some tips that Abatchy used to prepare for OSCP. Abatchy is a member of the Windows Security Team and this is a very nice blog for prepping for OSCP.
+
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
