@@ -12,17 +12,20 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
+ * [Threat Intelligence](#threat-intelligence)
  * [Threat Hunting & DFIR](#threat-hunting-dfir)
  * [Miscellaneous](#miscellaneous)
 ---
 ### Youtube Channels Information Security News Sites and Blogs
-
+#### Youtube Channels
+* [The NewBoston - Multiple Courses on Various Programming Languages](https://www.youtube.com/user/thenewboston)
+#### Videos, Presentations, and Keynote Speeches
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
-* [The NewBoston](https://www.youtube.com/user/thenewboston)
+* [How To Pwn an Enterprise (Johnny Xmas)](https://www.youtube.com/watch?v=ifZE66-JrWQ&feature=youtu.be)
+* [The Black Art of Wireless Post-Exploitation (Gabriel Ryan)](https://www.youtube.com/watch?v=cF2qrN_67Rc&feature=youtu.be)
+#### Blogs
 * [1337red Blog](https://1337red.wordpress.com/)
-
 * [Abatchys Blog](https://www.abatchy.com/)
-Abatchys Blog is a collection of Vulnerable VM Walkthroughs, Windows Kernal Exploitation, as well as some tips that Abatchy used to prepare for OSCP. Abatchy is a member of the Windows Security Team and this is a very nice blog for prepping for OSCP.
 ---
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
