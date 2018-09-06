@@ -76,6 +76,10 @@ Abatchys Blog is a collection of Vulnerable VM Walkthroughs, Windows Kernal Expl
 * [Vulnhub](https://www.vulnhub.com/)
 * [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
 ---
+### Threat Intelligence
+* [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
+* [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
+---
 ### Threat Hunting DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
