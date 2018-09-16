@@ -85,6 +85,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ---
 ### Threat Hunting DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
+* [ATT&CK Mapping via MITRE](RedTeam-BreakTheBox)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 * [Targeted Ransomware](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
