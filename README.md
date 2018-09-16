@@ -100,6 +100,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 * [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
+* [FLARE VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
 ---
 ### Miscellaneous
