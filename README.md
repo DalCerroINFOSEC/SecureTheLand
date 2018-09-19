@@ -106,3 +106,5 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
 * [Free Splunk Training + Splunk User Certification](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
+* [Blue & Redteam Challenges](https://public.attackdefense.com/latestlabs)
+
