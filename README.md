@@ -37,7 +37,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 * [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
 * [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
---
+---
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
