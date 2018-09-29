@@ -5,6 +5,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Table of Contents
  * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
+ * [Splunk Resources] (#splunk)
  * [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
  * [General Penetration Testing](#general-penetration-testing)
  * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
@@ -19,6 +20,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Youtube Channels Information Security News Sites and Blogs
 #### Youtube Channels
 * [The NewBoston - Multiple Courses on Various Programming Languages](https://www.youtube.com/user/thenewboston)
+* [SANS Pentest Training](https://www.youtube.com/SANSPenTestTraining)
 #### Videos, Presentations, and Keynote Speeches
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [How To Pwn an Enterprise (Johnny Xmas)](https://www.youtube.com/watch?v=ifZE66-JrWQ&feature=youtu.be)
@@ -26,7 +28,17 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Blogs
 * [1337red Blog](https://1337red.wordpress.com/)
 * [Abatchys Blog](https://www.abatchy.com/)
+* [Bleeping Computer](https://www.bleepingcomputer.com/)
+* [The Hacker News](https://thehackernews.com/)
 ---
+### Splunk Resources
+* [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
+* [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
+* [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
+* [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
+* [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
+
+--
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
