@@ -14,6 +14,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
  * [Threat Intelligence](#threat-intelligence)
+ * [Detecting Lateral Movement](#detecting-lateral-movement)
  * [Threat Hunting & DFIR](#threat-hunting-dfir)
  * [Miscellaneous](#miscellaneous)
 ---
@@ -94,6 +95,11 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 * [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
 ---
+### Detecting Lateral Movement
+* [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
+* [Lateral Movement Tactics MiITRE](https://attack.mitre.org/wiki/Lateral_Movement)
+
+---
 ### Threat Hunting DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ATT&CK Mapping via MITRE](RedTeam-BreakTheBox)
@@ -113,6 +119,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 * [FLARE VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
+* [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
