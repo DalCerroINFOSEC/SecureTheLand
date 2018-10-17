@@ -120,6 +120,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [FLARE VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
+* [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
+* [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
