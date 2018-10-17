@@ -122,6 +122,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
+* [Yara](http://virustotal.github.io/yara/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
