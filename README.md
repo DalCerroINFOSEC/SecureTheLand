@@ -136,6 +136,7 @@ https://www.hackthebox.eu/
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
+* [dasmalwerk Fresh Malware Samples](http://dasmalwerk.eu/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
