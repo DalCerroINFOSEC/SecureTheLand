@@ -51,6 +51,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
 * [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
+* [HackerGateway - Challenges](https://www.hackergateway.com/)
+https://www.hackthebox.eu/
 ---
 ### Scanning And Reconnaissance
 * [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
@@ -76,6 +78,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [A "how to" for the "brute force" module set to "low" level security inside of (DVWA)](https://blog.g0tmi1k.com/dvwa/bruteforce-low/)
 * [Techniques for spawning shells Via lanmaster53](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 * [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
+* [Enigma WebApp Security Training - Challenges](https://www.enigmagroup.org/)
 ---
 ### Attacking Active Directory
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
@@ -125,10 +128,12 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ---
 ### Digital Forensics
 * [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
-* [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)H
+* [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)
+* [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
+* [Reverse Engineering Malware Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
-* [Defcon 2018 CTFs - CTFs](https://defcon2018.ctfd.io/)
+* [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
 ---
 ### Miscellaneous
