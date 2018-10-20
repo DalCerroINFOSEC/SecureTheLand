@@ -26,6 +26,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [How To Pwn an Enterprise (Johnny Xmas)](https://www.youtube.com/watch?v=ifZE66-JrWQ&feature=youtu.be)
 * [The Black Art of Wireless Post-Exploitation (Gabriel Ryan)](https://www.youtube.com/watch?v=cF2qrN_67Rc&feature=youtu.be)
+* [T202 Defending against PowerShell Attacks Lee Holmes](https://www.youtube.com/watch?v=LNlxGXGJPl8)
 #### Blogs
 * [1337red Blog](https://1337red.wordpress.com/)
 * [Abatchys Blog](https://www.abatchy.com/)
@@ -106,9 +107,9 @@ https://www.hackthebox.eu/
 * [Palo Alto Network - Pulling Back The Curtains on EncodedCommand Powershell Activity](https://researchcenter.paloaltonetworks.com/2017/03/unit42-pulling-back-the-curtains-on-encodedcommand-powershell-attacks/)
 
 ---
-### Threat Hunting DFIR
+DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
-* [ATT&CK Mapping via MITRE](RedTeam-BreakTheBox)
+* [ATT&CK Mapping via MITRE](https://mitre-attack.github.io/caret/#/)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 * [Targeted Ransomware](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
@@ -127,6 +128,7 @@ https://www.hackthebox.eu/
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
 * [Yara](http://virustotal.github.io/yara/)
+
 ---
 ### Digital Forensics
 * [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
