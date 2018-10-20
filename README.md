@@ -143,6 +143,7 @@ https://www.hackthebox.eu/
 * [Netresec A collection of pcaps with malicious indicators](https://www.netresec.com/index.ashx?page=PcapFiles)
 * [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
 * [Volatility - Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
+* [Tuts4you Tutorials, Papers, Dissertations, Essays and Guides](https://tuts4you.com/download/category/19//)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
