@@ -52,6 +52,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
 * [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
 * [HackerGateway - Challenges](https://www.hackergateway.com/)
+* [Password Cracking Test Data](https://dfir.science/2017/08/Password-Cracking-Test-Data.html)
 https://www.hackthebox.eu/
 ---
 ### Scanning And Reconnaissance
