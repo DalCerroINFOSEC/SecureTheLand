@@ -103,6 +103,7 @@ https://www.hackthebox.eu/
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
 * [Lateral Movement Tactics MiITRE](https://attack.mitre.org/wiki/Lateral_Movement)
+* [Palo Alto Network - Pulling Back The Curtains on EncodedCommand Powershell Activity](https://researchcenter.paloaltonetworks.com/2017/03/unit42-pulling-back-the-curtains-on-encodedcommand-powershell-attacks/)
 
 ---
 ### Threat Hunting DFIR
