@@ -119,7 +119,6 @@ https://www.hackthebox.eu/
 * [Windows Event Logs to Detect Lateral Movement Rapid7-Video](https://www.rapid7.com/resources/using-windows-event-logs-to-detect-lateral-movement/)
 * [DFIR Challenges and Images](https://www.dfir.training/tools/test-images-and-challenges)
 * [Data Leakage Case Scenario with Images](https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html)* 
-* [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 * [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
@@ -149,6 +148,7 @@ https://www.hackthebox.eu/
 * [Reverse Engineering Malware Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
+* [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
