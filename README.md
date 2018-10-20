@@ -141,7 +141,7 @@ https://www.hackthebox.eu/
 * [Virusign Malware Samples](http://www.virusign.com/)
 * [Malshare Malware Samples](https://malshare.com/)
 * [Netresec A collection of pcaps with malicious indicators](https://www.netresec.com/index.ashx?page=PcapFiles)
-* [A collection of DFIR Cases- Challenges](https://www.cfreds.nist.gov/)
+* [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
