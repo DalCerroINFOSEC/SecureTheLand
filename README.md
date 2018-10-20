@@ -117,12 +117,19 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 * [The 2018 Lone Wolf Scenario](https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario)
 * [Forensics Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
-* [FLARE VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
 * [Yara](http://virustotal.github.io/yara/)
+---
+### Digital Forensics
+* [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
+* [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)H
+* [CTF WriteUps - Github](https://github.com/ctfs)
+* [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
+* [Defcon 2018 CTFs - CTFs](https://defcon2018.ctfd.io/)
+* [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
