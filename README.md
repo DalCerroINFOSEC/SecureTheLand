@@ -27,7 +27,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [How To Pwn an Enterprise (Johnny Xmas)](https://www.youtube.com/watch?v=ifZE66-JrWQ&feature=youtu.be)
 * [The Black Art of Wireless Post-Exploitation (Gabriel Ryan)](https://www.youtube.com/watch?v=cF2qrN_67Rc&feature=youtu.be)
 * [T202 Defending against PowerShell Attacks Lee Holmes](https://www.youtube.com/watch?v=LNlxGXGJPl8)
-* [DEF CON 22 - Ryan Kazanciyan and Matt Hastings, Investigating PowerShell Attacks]https://www.youtube.com/watch?v=qF06PFcezLs
+* [DEF CON 22 - Ryan Kazanciyan and Matt Hastings, Investigating PowerShell Attacks](https://www.youtube.com/watch?v=qF06PFcezLs)
 #### Blogs
 * [1337red Blog](https://1337red.wordpress.com/)
 * [Abatchys Blog](https://www.abatchy.com/)
