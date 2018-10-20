@@ -145,6 +145,8 @@ https://www.hackthebox.eu/
 * [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
 * [Volatility - Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
 * [Tuts4you Tutorials, Papers, Dissertations, Essays and Guides](https://tuts4you.com/download/category/19//)
+* [Forensickb Challenge](http://www.forensickb.com/2008/01/forensic-practical.html)
+* [Cfreds Data Leakage Case Challenge](https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
