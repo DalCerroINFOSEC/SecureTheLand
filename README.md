@@ -31,6 +31,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Abatchys Blog](https://www.abatchy.com/)
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
 * [The Hacker News](https://thehackernews.com/)
+* [DFIR SANS Blog](https://digital-forensics.sans.org/blog/)
 ---
 ### Splunk Resources
 * [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
