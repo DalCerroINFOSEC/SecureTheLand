@@ -135,7 +135,6 @@ https://www.hackthebox.eu/
 * [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
 * [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
-
 * [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 * [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
 * [Virusign Malware Samples](http://www.virusign.com/)
