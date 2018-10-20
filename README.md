@@ -130,6 +130,7 @@ https://www.hackthebox.eu/
 * [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)
 * [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
+* [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
 * [Reverse Engineering Malware Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
