@@ -22,6 +22,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Youtube Channels
 * [The NewBoston - Multiple Courses on Various Programming Languages](https://www.youtube.com/user/thenewboston)
 * [SANS Pentest Training](https://www.youtube.com/SANSPenTestTraining)
+* [SANs DFIR](https://www.youtube.com/channel/UCwSo89W3KgPrid41vskBDYA)
 #### Videos, Presentations, and Keynote Speeches
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 * [How To Pwn an Enterprise (Johnny Xmas)](https://www.youtube.com/watch?v=ifZE66-JrWQ&feature=youtu.be)
