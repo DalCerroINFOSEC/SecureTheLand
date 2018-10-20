@@ -142,6 +142,7 @@ https://www.hackthebox.eu/
 * [Malshare Malware Samples](https://malshare.com/)
 * [Netresec A collection of pcaps with malicious indicators](https://www.netresec.com/index.ashx?page=PcapFiles)
 * [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
+* [Volatility - Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
