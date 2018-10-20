@@ -137,6 +137,8 @@ https://www.hackthebox.eu/
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
 * [dasmalwerk Fresh Malware Samples](http://dasmalwerk.eu/)
+* [Virusign Malware Samples](http://www.virusign.com/)
+* [Malshare Malware Samples](https://malshare.com/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
