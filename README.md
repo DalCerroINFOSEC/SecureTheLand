@@ -162,6 +162,7 @@ DFIR
 * [Blue & Redteam Challenges](https://public.attackdefense.com/latestlabs)
 
 https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
+http://az4n6.blogspot.com/2018/06/malicious-powershell-in-registry.html
 
 http://sandsprite.com/CodeStuff/scdbg_manual/MANUAL_EN.html
 https://hashes.org/hashlists.php
