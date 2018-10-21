@@ -47,6 +47,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
 * [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
 * [SPL - Github/inodee](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries)
+* [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 ---
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
@@ -129,6 +130,8 @@ https://www.hackthebox.eu/
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [Intelligent Hunting: Using Threat Intelligence to Guide Your Hunts - SANS Youtube](https://www.youtube.com/watch?v=-QlaOX5w8G8)
+* [SPL - Github/inodee](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries)
+* [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 ---
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
