@@ -110,7 +110,9 @@ https://www.hackthebox.eu/
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
 ---
 ### Threat Hunting
-[The Hunting Cycle and Measuring Success](https://findingbad.blogspot.com/2016/11/the-hunting-cycle-and-measuring-success.html)
+* [The Hunting Cycle and Measuring Success](https://findingbad.blogspot.com/2016/11/the-hunting-cycle-and-measuring-success.html)
+* [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
+* [Tales of a Threat Hunter 2](https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/)
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 ---
