@@ -48,6 +48,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
 * [SPL - Github/inodee](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries)
 * [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
+* [Hunting Methology Splunk Bots BOS - Medium/MHarris](https://medium.com/@haggis_m/hunting-methodology-splunk-bots-boss-of-the-soc-part-1-bcf019386617)
 ---
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
