@@ -131,8 +131,9 @@ https://www.hackthebox.eu/
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [Intelligent Hunting: Using Threat Intelligence to Guide Your Hunts - SANS Youtube](https://www.youtube.com/watch?v=-QlaOX5w8G8)
 * [SPL - Github/inodee](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries)
-* [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
+* [Splunk Hunting Searches - Github/Hunt Detect Prevent](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 * [Hunting Web Shells with Splunk - Yotube](https://www.youtube.com/watch?v=FEb8KZoEyzI)
+[Splunk Hunting Queries - Github/hunter-3](https://github.com/hunter-3/Splunk_Hunting_Queries)
 ---
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
