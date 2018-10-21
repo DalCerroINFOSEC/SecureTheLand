@@ -113,7 +113,7 @@ https://www.hackthebox.eu/
 * [Palo Alto Network - Pulling Back The Curtains on EncodedCommand Powershell Activity](https://researchcenter.paloaltonetworks.com/2017/03/unit42-pulling-back-the-curtains-on-encodedcommand-powershell-attacks/)
 
 ---
-DFIR
+### DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
