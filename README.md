@@ -115,6 +115,7 @@ https://www.hackthebox.eu/
 * [The Hunting Cycle and Measuring Success](https://findingbad.blogspot.com/2016/11/the-hunting-cycle-and-measuring-success.html)
 * [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
 * [Tales of a Threat Hunter 2](https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/)
+* [C2 Hunting - Finding Bad](http://findingbad.blogspot.com/2018/03/)
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [Intelligent Hunting: Using Threat Intelligence to Guide Your Hunts - SANS Youtube](https://www.youtube.com/watch?v=-QlaOX5w8G8)
