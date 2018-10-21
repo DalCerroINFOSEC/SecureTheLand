@@ -102,6 +102,8 @@ https://www.hackthebox.eu/
 * [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
 ---
 ### Threat Intelligence
+* [APT Groups & Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
+* [ATT&CK Mapping via MITRE](https://mitre-attack.github.io/caret/#/)
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 * [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
 ---
@@ -113,7 +115,7 @@ https://www.hackthebox.eu/
 ---
 DFIR
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
-* [ATT&CK Mapping via MITRE](https://mitre-attack.github.io/caret/#/)
+
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 * [Targeted Ransomware](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
