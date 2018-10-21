@@ -161,5 +161,7 @@ DFIR
 * [Free Splunk Training + Splunk User Certification](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 * [Blue & Redteam Challenges](https://public.attackdefense.com/latestlabs)
 
+https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
+
 http://sandsprite.com/CodeStuff/scdbg_manual/MANUAL_EN.html
 https://hashes.org/hashlists.php
