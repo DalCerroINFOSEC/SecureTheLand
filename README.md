@@ -162,3 +162,4 @@ DFIR
 * [Blue & Redteam Challenges](https://public.attackdefense.com/latestlabs)
 
 http://sandsprite.com/CodeStuff/scdbg_manual/MANUAL_EN.html
+https://hashes.org/hashlists.php
