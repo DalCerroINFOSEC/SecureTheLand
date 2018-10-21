@@ -111,6 +111,9 @@ https://www.hackthebox.eu/
 * [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
 ---
+### Threat Research
+* [Fortinet Threat Research](https://www.fortinet.com/blog/threat-research.html)
+---
 ### Threat Hunting
 * [The Hunting Cycle and Measuring Success](https://findingbad.blogspot.com/2016/11/the-hunting-cycle-and-measuring-success.html)
 * [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
