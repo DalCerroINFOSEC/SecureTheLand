@@ -106,6 +106,12 @@ https://www.hackthebox.eu/
 * [ATT&CK Mapping via MITRE](https://mitre-attack.github.io/caret/#/)
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 * [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
+* [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
+---
+### Threat Hunting
+[The Hunting Cycle and Measuring Success](https://findingbad.blogspot.com/2016/11/the-hunting-cycle-and-measuring-success.html)
+* [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
+* [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 ---
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
@@ -114,9 +120,6 @@ https://www.hackthebox.eu/
 
 ---
 ### DFIR
-* [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
-
-* [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [McCafee Quarterly Threat Reports 2017](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-sept-2017.pdf)
 * [Targeted Ransomware](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 * [Identifying Malware Traffic with Bro and the Collective Intelligence Framework (CIF)](http://blog.opensecurityresearch.com/2014/03/identifying-malware-traffic-with-bro.html)
@@ -132,7 +135,7 @@ https://www.hackthebox.eu/
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
-* [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
+
 * [Yara](http://virustotal.github.io/yara/)
 
 ---
