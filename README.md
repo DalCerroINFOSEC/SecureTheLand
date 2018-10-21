@@ -3,20 +3,25 @@
 A collection of Blue team / Red Team cyber security resources for all fellow professional information security enthusiast.
 
 
+
 ## Table of Contents
  * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
  * [Splunk Resources](#splunk-resources)
  * [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
+ * [Threat Intelligence](#threat-intelligence)
+* [Threat Research](#threat-research)
+* [Threat Hunting](#threat-hunting)
+* [Detecting Lateral Movement](#detecting-lateral-movement)
+* [Digital Forensics](#digital-forensics)
  * [General Penetration Testing](#general-penetration-testing)
  * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
  * [Explotation](#exploitation)
  * [Privilege Escalation](#privilege-escalation)
  * [Web App](#web-app) 
  * [Vulnerable Machines](#vulnerable-machines)
- * [Threat Intelligence](#threat-intelligence)
- * [Detecting Lateral Movement](#detecting-lateral-movement)
- * [Threat Hunting & DFIR](#threat-hunting-dfir)
- * [Miscellaneous](#miscellaneous)
+* [Attacking Active Directory](#attacking-active-directory)
+* [Password Lists](#password lists)
+* [Miscellaneous](#miscellaneous)
 ---
 ### Youtube Channels Information Security News Sites and Blogs
 #### Youtube Channels
@@ -53,58 +58,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
----
-### General Penetration Testing
-* [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
-* [Abatchys Blog - How-to-prepare-for-pwkoscp](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md)
-* [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
-* [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
-* [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
-* [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
-* [HackerGateway - Challenges](https://www.hackergateway.com/)
-* [Password Cracking Test Data](https://dfir.science/2017/08/Password-Cracking-Test-Data.html)
-https://www.hackthebox.eu/
----
-### Scanning And Reconnaissance
-* [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
-* [netstat without netstat](https://staaldraad.github.io/2017/12/20/netstat-without-netstat/)
-* [exploit-db](https://www.exploit-db.com/) 
----
-### Exploitation
-* [Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html)
----
-### Privilege Escalation
-* [Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation)
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
-* [Unix-Prvesc-check via pentest monkey](http://pentestmonkey.net/tools/audit/unix-privesc-check)
-* [A Linux alternative to enum.exe via Portcullis](https://labs.portcullis.co.uk/tools/enum4linux/)
-* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
-* [UNIX-PrivEsc](https://github.com/FuzzySecurity/Unix-PrivEsc)
-* [Manual Local Hash Extraction via lanmaster53](https://www.lanmaster53.com/2013/05/24/manual-local-hash-extraction/)
-* [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
-* [Windows Post Exploitation Command List](http://tim3warri0r.blogspot.com/)
-* [A Checklist for Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
----
-### Web App
-* [A "how to" for the "brute force" module set to "low" level security inside of (DVWA)](https://blog.g0tmi1k.com/dvwa/bruteforce-low/)
-* [Techniques for spawning shells Via lanmaster53](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
-* [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
-* [Enigma WebApp Security Training - Challenges](https://www.enigmagroup.org/)
----
-### Attacking Active Directory
-* [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
-* [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
-* [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
----
-### Password Lists
-* [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
----
-### Vulnerable Machines
-
-* [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
-* [Vulnhub](https://www.vulnhub.com/)
-* [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
 ---
 ### Threat Intelligence
 * [APT Groups & Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
@@ -163,7 +116,6 @@ https://www.hackthebox.eu/
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
 * [Yara](http://virustotal.github.io/yara/)
 [Basics of Windows Incident Response](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/)
-
 ---
 ### Digital Forensics
 * [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
@@ -187,6 +139,58 @@ https://www.hackthebox.eu/
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
+---
+### General Penetration Testing
+* [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
+* [Abatchys Blog - How-to-prepare-for-pwkoscp](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md)
+* [Penetration Testing Methodology/Guide Via 0daysecurity](http://www.0daysecurity.com/pentest.html)
+* [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+* [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
+* [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
+* [HackerGateway - Challenges](https://www.hackergateway.com/)
+* [Password Cracking Test Data](https://dfir.science/2017/08/Password-Cracking-Test-Data.html)
+https://www.hackthebox.eu/
+---
+### Scanning And Reconnaissance
+* [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
+* [netstat without netstat](https://staaldraad.github.io/2017/12/20/netstat-without-netstat/)
+* [exploit-db](https://www.exploit-db.com/) 
+---
+### Exploitation
+* [Lindrop - A Social Engineering Vector for Linux Targets](https://www.obscurechannel.com/x42/lindrop.html)
+---
+### Privilege Escalation
+* [Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation)
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+* [Unix-Prvesc-check via pentest monkey](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+* [A Linux alternative to enum.exe via Portcullis](https://labs.portcullis.co.uk/tools/enum4linux/)
+* [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+* [UNIX-PrivEsc](https://github.com/FuzzySecurity/Unix-PrivEsc)
+* [Manual Local Hash Extraction via lanmaster53](https://www.lanmaster53.com/2013/05/24/manual-local-hash-extraction/)
+* [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+* [Windows Post Exploitation Command List](http://tim3warri0r.blogspot.com/)
+* [A Checklist for Windows Privilege Escalation](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
+---
+### Web App
+* [A "how to" for the "brute force" module set to "low" level security inside of (DVWA)](https://blog.g0tmi1k.com/dvwa/bruteforce-low/)
+* [Techniques for spawning shells Via lanmaster53](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
+* [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
+* [Enigma WebApp Security Training - Challenges](https://www.enigmagroup.org/)
+---
+### Attacking Active Directory
+* [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
+* [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
+* [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
+---
+### Password Lists
+* [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
+---
+### Vulnerable Machines
+
+* [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
+* [Vulnhub](https://www.vulnhub.com/)
+* [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
 ---
 ### Miscellaneous
 * [Active Directory Resources](https://adsecurity.org/?page_id=41)
