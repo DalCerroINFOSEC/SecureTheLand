@@ -139,7 +139,6 @@ https://www.hackthebox.eu/
 * [Building Malware Analysis Toolkit](https://zeltser.com/build-malware-analysis-toolkit/)
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
-
 * [Yara](http://virustotal.github.io/yara/)
 
 ---
@@ -148,6 +147,7 @@ https://www.hackthebox.eu/
 * [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)
 * [CIRCL Forensics Training](https://www.circl.lu/services/forensic-training-materials/)
 * [DFRWS - Whitepapers](http://dfrws.org/archive/papers)
+* [SANS DFIR Cheat Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
 * [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
 * [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
