@@ -5,22 +5,22 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 
 ## Table of Contents
- * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
- * [Splunk Resources](#splunk-resources)
- * [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
- * [Threat Intelligence](#threat-intelligence)
+* [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
+* [Splunk Resources](#splunk-resources)
+* [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
+* [Threat Intelligence](#threat-intelligence)
 * [Threat Research](#threat-research)
 * [Threat Hunting](#threat-hunting)
 * [Detecting Lateral Movement](#detecting-lateral-movement)
 * [Digital Forensics](#digital-forensics)
- * [General Penetration Testing](#general-penetration-testing)
- * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
- * [Explotation](#exploitation)
- * [Privilege Escalation](#privilege-escalation)
- * [Web App](#web-app) 
- * [Vulnerable Machines](#vulnerable-machines)
+* [General Penetration Testing](#general-penetration-testing)
+* [Scanning and Reconnaissance](#scanning-and-reconnaissance)
+* [Explotation](#exploitation)
+* [Privilege Escalation](#privilege-escalation)
+* [Web App](#web-app) 
+* [Vulnerable Machines](#vulnerable-machines)
 * [Attacking Active Directory](#attacking-active-directory)
-* [Password Lists](#password lists)
+* [Password Lists](#password-lists)
 * [Miscellaneous](#miscellaneous)
 ---
 ### Youtube Channels Information Security News Sites and Blogs
