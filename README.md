@@ -115,6 +115,7 @@ https://www.hackthebox.eu/
 * [Tales of a Threat Hunter 2](https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/)
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
+* [Intelligent Hunting: Using Threat Intelligence to Guide Your Hunts - SANS Youtube](https://www.youtube.com/watch?v=-QlaOX5w8G8)
 ---
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
