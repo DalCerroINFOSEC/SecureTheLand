@@ -107,6 +107,7 @@ https://www.hackthebox.eu/
 * [APT Groups & Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
 * [ATT&CK Mapping via MITRE](https://mitre-attack.github.io/caret/#/)
 * [APT Groups - FireEye](https://www.fireeye.com/current-threats/apt-groups.html)
+* [Fortiguard Threat Encyclopedia](http://www.fortiguard.com/encyclopedia)
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 * [blog post is a partial summary of a SANS webinar on Threat Intelligence and Sources](https://www.recordedfuture.com/threat-intelligence-sources/)
 * [STIX and TAXI | A structure language and transportation method for sharing Threat Intelligence](https://oasis-open.github.io/cti-documentation/)
