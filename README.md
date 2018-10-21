@@ -134,6 +134,7 @@ https://www.hackthebox.eu/
 * [Splunk Hunting Searches - Github/Hunt Detect Prevent](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 * [Hunting Web Shells with Splunk - Yotube](https://www.youtube.com/watch?v=FEb8KZoEyzI)
 [Splunk Hunting Queries - Github/hunter-3](https://github.com/hunter-3/Splunk_Hunting_Queries)
+* [Hunting with Sysmon & Splunk - Medium/MHarris](https://medium.com/@haggis_m/hunting-with-sysmon-38de012e62e6)
 ---
 ### Detecting Lateral Movement
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
