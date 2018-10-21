@@ -198,3 +198,5 @@ http://az4n6.blogspot.com/2018/06/malicious-powershell-in-registry.html
 
 http://sandsprite.com/CodeStuff/scdbg_manual/MANUAL_EN.html
 https://hashes.org/hashlists.php
+https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/increased-use-of-powershell-in-attacks-16-en.pdf
+
