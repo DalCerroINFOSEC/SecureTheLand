@@ -123,6 +123,8 @@ https://www.hackthebox.eu/
 * [Hunting for Chains- Finding Bad](http://findingbad.blogspot.com/2017/02/hunting-for-chains.html)
 * [Patterns of Behavior - Finding Bad](http://findingbad.blogspot.com/2017/02/patterns-of-behavior.html)
 * [Hunting What Does it Look Like - Finding Bad](http://findingbad.blogspot.com/2017/01/hunting-what-does-it-look-like.html)
+* [Hunting From The Top - Finding Bad](http://findingbad.blogspot.com/2016/08/hunting-from-top.html)
+* [Hunting Lateral Movement](http://findingbad.blogspot.com/2016/08/hunting-lateral-movement.html)
 * [Hunt Evil Your Practical Guide to Threat Hunting](https://sqrrl.com/media/Your-Practical-Guide-to-Threat-Hunting.pdf)
 * [ThreatHuntingProject](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [Intelligent Hunting: Using Threat Intelligence to Guide Your Hunts - SANS Youtube](https://www.youtube.com/watch?v=-QlaOX5w8G8)
