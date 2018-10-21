@@ -37,6 +37,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Bleeping Computer](https://www.bleepingcomputer.com/)
 * [The Hacker News](https://thehackernews.com/)
 * [DFIR SANS Blog](https://digital-forensics.sans.org/blog/)
+* [Jordan Potti](https://jordanpotti.com/)
 ---
 ### Splunk Resources
 * [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
@@ -140,6 +141,7 @@ https://www.hackthebox.eu/
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
 * [Redline Free Security Software | Free security software from FireEye](https://www.fireeye.com/services/freeware.html)
 * [Yara](http://virustotal.github.io/yara/)
+[Basics of Windows Incident Response](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/)
 
 ---
 ### Digital Forensics
