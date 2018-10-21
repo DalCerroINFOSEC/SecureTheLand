@@ -38,6 +38,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [The Hacker News](https://thehackernews.com/)
 * [DFIR SANS Blog](https://digital-forensics.sans.org/blog/)
 * [Jordan Potti](https://jordanpotti.com/)
+* [Finding Bad DFIR & Threat Hunting](https://findingbad.blogspot.com/)
 ---
 ### Splunk Resources
 * [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
