@@ -141,6 +141,8 @@ https://www.hackthebox.eu/
 * [Detecting Lateral Movement in Windows Event Logs | ThreatHuntingProject Github](https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
 * [Lateral Movement Tactics MiITRE](https://attack.mitre.org/wiki/Lateral_Movement)
 * [Palo Alto Network - Pulling Back The Curtains on EncodedCommand Powershell Activity](https://researchcenter.paloaltonetworks.com/2017/03/unit42-pulling-back-the-curtains-on-encodedcommand-powershell-attacks/)
+* [Detecting Lateral Movement - CERT EU](http://cert.europa.eu/static/WhitePapers/CERT-EU_SWP_17-002_Lateral_Movements.pdf)
+* [Detecting & Mitigating Kerb Golden Ticket - CERT EU](http://cert.europa.eu/static/WhitePapers/UPDATED%20-%20CERT-EU_Security_Whitepaper_2014-007_Kerberos_Golden_Ticket_Protection_v1_4.pdf)
 
 ---
 ### DFIR
