@@ -23,7 +23,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [The NewBoston - Multiple Courses on Various Programming Languages](https://www.youtube.com/user/thenewboston)
 * [SANS Pentest Training](https://www.youtube.com/SANSPenTestTraining)
 * [SANs DFIR](https://www.youtube.com/channel/UCwSo89W3KgPrid41vskBDYA)
-https://www.youtube.com/user/DEFCONConference/search?query=incident+response)
+(https://www.youtube.com/user/DEFCONConference/search?query=incident+response)
 * [DefCON Switzerland](https://www.youtube.com/user/defconswitzerland)
 #### Videos, Presentations, and Keynote Speeches
 * [BlackHatEurope2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
@@ -161,3 +161,4 @@ DFIR
 * [Free Splunk Training + Splunk User Certification](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 * [Blue & Redteam Challenges](https://public.attackdefense.com/latestlabs)
 
+http://sandsprite.com/CodeStuff/scdbg_manual/MANUAL_EN.html
