@@ -141,20 +141,20 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ---
 ### Resources
 #### Malware
+* [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
 * [Contagiodump](http://contagiodump.blogspot.com/)
 * [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
-* [Virusign Malware Samples](http://www.virusign.com/)
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+* [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
+* [Malshare](https://malshare.com/)
 * [Malshare Malware Samples](https://malshare.com/)
-* [vxvault](http://vxvault.net/ViriList.php)
+* [MalwareDB](http://malwaredb.malekal.com/)
+* [Virusign Malware Samples](http://www.virusign.com/)
 * [Virusshare](https://virusshare.com/)
 * [Virus Bay](https://beta.virusbay.io/)
 * [Vduddu](https://github.com/vduddu/Malware)
-* [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
-* [https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)
-* [MalwareDB](http://malwaredb.malekal.com/)
-* [Malshare](https://malshare.com/)
-* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
-* [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
+* [theZoo](https://github.com/ytisf/theZoo)
+* [vxvault](http://vxvault.net/ViriList.php)
 ---
 ### General Penetration Testing
 * [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
