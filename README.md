@@ -127,9 +127,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
 * [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
-* [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
-* [Virusign Malware Samples](http://www.virusign.com/)
-* [Malshare Malware Samples](https://malshare.com/)
 * [Netresec A collection of pcaps with malicious indicators](https://www.netresec.com/index.ashx?page=PcapFiles)
 * [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
 * [Volatility - Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
@@ -140,6 +137,23 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
+---
+### Resources
+#### Malware
+* [Contagiodump](http://contagiodump.blogspot.com/)
+* [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
+* [Virusign Malware Samples](http://www.virusign.com/)
+* [Malshare Malware Samples](https://malshare.com/)
+* [vxvault](http://vxvault.net/ViriList.php)
+* [Virusshare](https://virusshare.com/)
+* [Virus Bay](https://beta.virusbay.io/)
+* [Vduddu](https://github.com/vduddu/Malware)
+* [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
+* [https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)
+* [MalwareDB](http://malwaredb.malekal.com/)
+* [Malshare](https://malshare.com/)
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+* [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
 ---
 ### General Penetration Testing
 * [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
