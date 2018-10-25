@@ -127,7 +127,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [SANS DFIR Cheat Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
 * [Forensics CTF - Challenge/Case](https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html)
 * [CTF WriteUps - Github](https://github.com/ctfs)
-* [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 * [Netresec A collection of pcaps with malicious indicators](https://www.netresec.com/index.ashx?page=PcapFiles)
 * [Betwenwodfirns - A collection of CTFs & Cases](https://betweentwodfirns.blogspot.com/)
 * [Volatility - Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
@@ -155,6 +154,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Vduddu](https://github.com/vduddu/Malware)
 * [theZoo](https://github.com/ytisf/theZoo)
 * [vxvault](http://vxvault.net/ViriList.php)
+#### PCAPs
+* [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 ---
 ### General Penetration Testing
 * [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
