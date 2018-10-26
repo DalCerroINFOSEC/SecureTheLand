@@ -139,10 +139,15 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 ---
 ### Resources
+#### Malware Analysis Sites
+* [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
+
 #### Malware
+* [AVCaesar](https://avcaesar.malware.lu/)
 * [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
 * [Contagiodump](http://contagiodump.blogspot.com/)
 * [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
+* [KernakMode](http://www.kernelmode.info/forum/viewforum.php?f=16)
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 * [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
 * [Malshare](https://malshare.com/)
