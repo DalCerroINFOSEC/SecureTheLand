@@ -139,8 +139,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 ---
 ### Resources
-#### Malware Analysis Sites
+#### Malware Sandboxing & Analysis Sites
 * [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
+* [FileSignatures - Will check Hex values](https://filesignatures.net/)
 
 #### Malware
 * [AVCaesar](https://avcaesar.malware.lu/)
