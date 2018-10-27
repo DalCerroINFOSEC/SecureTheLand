@@ -61,10 +61,17 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 #### Malware Sandboxing, Analysis Sites and Tools
-* [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
-* [FileSignatures - Will check Hex values](https://filesignatures.net/)
-* [HxD Editor](https://mh-nexus.de/en/hxd/)
-* [CFF Explorer](http://www.ntcore.com/exsuite.php)PE editor called CFF Explorer and a process viewer. 
+* [Hybrid Analysis - Webbased](https://www.hybrid-analysis.com/) Performs File/URL/YARA/& String Analysis.
+* [FileSignatures - Webbased](https://filesignatures.net/) Will look into HEX Values.
+* [VirusTotal - Webbased](https://www.virustotal.com/) Scan URL, Domain, Hash, or File.
+* [Metadefender Opswat](https://metadefender.opswat.com/#!/) Scan a file, IP Address, Hash or search a CVE.
+* [HxD Editor - Application/Tool](https://mh-nexus.de/en/hxd/) Hex Editor
+* [CFF Explorer Application/Tool](http://www.ntcore.com/exsuite.php) PE editor called CFF Explorer and a process viewer.
+* [Floss / Github - Application/Tool](https://github.com/fireeye/flare-floss) FireEye Labs Obfuscated String Solver (FLOSS) is a tool designed to identify and extract obfuscated strings from malware automatically.
+* [HashMyFiles - Application/Tool](http://www.nirsoft.net/utils/hash_my_files.html) Calculate MD5/SHA1/CRC32 hashes of your files.
+* [PE Studio - Application/Tool](https://www.winitor.com/) PE analysis tool that displays both ASCII & Unicode.
+* [PPEE - Application/Tool](https://www.mzrst.com/) PE file Explorer.
+* [Strings for Windows / Sysinternals - Application/Tool](https://docs.microsoft.com/en-us/sysinternals/downloads/strings) Strings ported for Windows. Can display ASCII & Unicode.
 #### Malware
 * [AVCaesar](https://avcaesar.malware.lu/)
 * [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
