@@ -60,9 +60,11 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
-#### Malware Sandboxing & Analysis Sites
+#### Malware Sandboxing, Analysis Sites and Tools
 * [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
 * [FileSignatures - Will check Hex values](https://filesignatures.net/)
+* [HxD Editor](https://mh-nexus.de/en/hxd/)
+* [CFF Explorer](http://www.ntcore.com/exsuite.php)PE editor called CFF Explorer and a process viewer. 
 #### Malware
 * [AVCaesar](https://avcaesar.malware.lu/)
 * [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
