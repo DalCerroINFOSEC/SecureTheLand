@@ -7,13 +7,12 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## Table of Contents
 * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
 * [Splunk Resources](#splunk-resources)
-* [Reverse Engineering Shellcoding and Malware Analysis](#reverse-engineering-shellcoding-and-malware-analysis)
+* [Malware Analysis and Exploit Development](#malware-analysis-and-exploit-development)
 * [Threat Intelligence](#threat-intelligence)
 * [Threat Research](#threat-research)
 * [Threat Hunting](#threat-hunting)
 * [Detecting Lateral Movement](#detecting-lateral-movement)
 * [Digital Forensics](#digital-forensics)
-* [Resources](#resources) - Malware - PCAPs
 * [General Penetration Testing](#general-penetration-testing)
 * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
 * [Explotation](#exploitation)
@@ -57,9 +56,32 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 * [Hunting Methology Splunk Bots BOS - Medium/MHarris](https://medium.com/@haggis_m/hunting-methodology-splunk-bots-boss-of-the-soc-part-1-bcf019386617)
 ---
-### Reverse Engineering Shellcoding and Malware Analysis
+## Malware Analysis and Exploit Development
+#### Reverse Engineering Shellcoding and Malware Analysis
 * [bintut, Teaching Binary Exploitation](https://github.com/NoviceLive/bintut)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+#### Malware Sandboxing & Analysis Sites
+* [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
+* [FileSignatures - Will check Hex values](https://filesignatures.net/)
+#### Malware
+* [AVCaesar](https://avcaesar.malware.lu/)
+* [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
+* [Contagiodump](http://contagiodump.blogspot.com/)
+* [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
+* [KernakMode](http://www.kernelmode.info/forum/viewforum.php?f=16)
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+* [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
+* [Malshare](https://malshare.com/)
+* [Malshare Malware Samples](https://malshare.com/)
+* [MalwareDB](http://malwaredb.malekal.com/)
+* [Virusign Malware Samples](http://www.virusign.com/)
+* [Virusshare](https://virusshare.com/)
+* [Virus Bay](https://beta.virusbay.io/)
+* [Vduddu](https://github.com/vduddu/Malware)
+* [theZoo](https://github.com/ytisf/theZoo)
+* [vxvault](http://vxvault.net/ViriList.php)
+#### PCAPs
+* [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 ---
 ### Threat Intelligence
 * [APT Groups & Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
@@ -137,31 +159,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [CyberSecurityChallenge.uk - Games](https://pod.cybersecuritychallenge.org.uk/)
 * [Defcon 2018 CTFs - Challenges](https://defcon2018.ctfd.io/)
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
----
-### Resources
-#### Malware Sandboxing & Analysis Sites
-* [Hybrid Analysis - File/URL/Yara/String Analysis](https://www.hybrid-analysis.com/)
-* [FileSignatures - Will check Hex values](https://filesignatures.net/)
-
-#### Malware
-* [AVCaesar](https://avcaesar.malware.lu/)
-* [Cert-Pa](https://infosec.cert-pa.it/analyze/submission.html)
-* [Contagiodump](http://contagiodump.blogspot.com/)
-* [dasmalwerk Malware Samples](http://dasmalwerk.eu/)
-* [KernakMode](http://www.kernelmode.info/forum/viewforum.php?f=16)
-* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
-* [Malware Corpus Tracker - Malicious Download Sites](http://tracker.h3x.eu/)
-* [Malshare](https://malshare.com/)
-* [Malshare Malware Samples](https://malshare.com/)
-* [MalwareDB](http://malwaredb.malekal.com/)
-* [Virusign Malware Samples](http://www.virusign.com/)
-* [Virusshare](https://virusshare.com/)
-* [Virus Bay](https://beta.virusbay.io/)
-* [Vduddu](https://github.com/vduddu/Malware)
-* [theZoo](https://github.com/ytisf/theZoo)
-* [vxvault](http://vxvault.net/ViriList.php)
-#### PCAPs
-* [Collections of PCAP files from known malware](https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 ---
 ### General Penetration Testing
 * [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
