@@ -95,7 +95,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Packers, Cryptors & Detectors
 * [UPX](https://upx.github.io/) High-performance executable packer/depacker for several executable formats.
 * [Trid](http://mark0.net/soft-trid-e.html) Packer Detection.
-[Detect it easy](http://ntinfo.biz/) Packer Identifier.
+* [Detect it easy](http://ntinfo.biz/) Packer Identifier.
 ---
 ### Threat Intelligence
 * [APT Groups & Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
