@@ -182,9 +182,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
 * [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
-* [HackerGateway - Challenges](https://www.hackergateway.com/)
-* [Password Cracking Test Data](https://dfir.science/2017/08/Password-Cracking-Test-Data.html)
-https://www.hackthebox.eu/
+
 ---
 ### Scanning And Reconnaissance
 * [Port scans without NMAP via lanmaster53](https://www.lanmaster53.com/2010/04/16/no-nmap-no-permissions-no-problem/)
@@ -212,8 +210,21 @@ https://www.hackthebox.eu/
 * [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
 * [Enigma WebApp Security Training - Challenges](https://www.enigmagroup.org/)
 * [bWAPP](https://sourceforge.net/projects/bwapp/files/bWAPP/) - bWAPP, or a buggy web application, is a deliberately insecure web application.It has over 100 web bugs! bWAPP covers all major known web vulnerabilities, including all risks from the OWASP Top 10 project!
+* [Game of Hacks](http://www.gameofhacks.com/) - This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible
 * [Hackazon](https://github.com/rapid7/hackazon) - Hackazon Hackazon is a vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications. Hackazon has an AJAX interface, strict workflows and RESTful API’s used by a companion mobile app providing uniquely-effective training and testing ground for IT security professionals. And, it’s full of your favorite vulnerabilities like SQL Injection, cross-site scripting and so on.
+* [HackThisSite](https://www.hackthissite.org/) - Hack This Site is a free, safe and legal training ground for hackers to test and expand their hacking skills.
+* [HackThis](https://www.hackthis.co.uk/) - An online plaform with challenges that test your skills in web app attacks.
 * [Mutillidae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast. Mutillidae can be installed on Linux and Windows using LAMP, WAMP, and XAMMP.
+* [HackerGateway - Challenges](https://www.hackergateway.com/)
+* [HellBound Hackers](https://www.hellboundhackers.org/)
+* [OvertheWire Wargames](http://overthewire.org/wargames/)
+* [root-me](https://www.root-me.org/?lang=en)
+* [Password Cracking Test Data](https://dfir.science/2017/08/Password-Cracking-Test-Data.html)
+(https://www.hackthebox.eu/)
+* [Peruggia](https://sourceforge.net/projects/peruggia/)
+* [try2hack](http://www.try2hack.nl/)
+* [Samurai Web Testing Framework](https://www.root-me.org/?lang=en)
+* [Vicnum Project](http://vicnum.ciphertechs.com/)
 ---
 ### Attacking Active Directory
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
