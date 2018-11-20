@@ -211,6 +211,8 @@ https://www.hackthebox.eu/
 * [Techniques for spawning shells Via lanmaster53](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 * [LFI to remote command execution using SSH via lanmaster53](https://www.lanmaster53.com/2011/05/09/local-file-inclusion-to-remote-command-execution-using-ssh/)
 * [Enigma WebApp Security Training - Challenges](https://www.enigmagroup.org/)
+* [bWAPP](https://sourceforge.net/projects/bwapp/files/bWAPP/) - bWAPP, or a buggy web application, is a deliberately insecure web application. bWAPP helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities. It prepares one to conduct successful penetration testing and ethical hacking projects. What makes bWAPP so unique? Well, it has over 100 web bugs! bWAPP covers all major known web vulnerabilities, including all risks from the OWASP Top 10 project!
+*[Hackazon](https://github.com/rapid7/hackazon) - Hackazon Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications. Hackazon has an AJAX interface, strict workflows and RESTful API’s used by a companion mobile app providing uniquely-effective training and testing ground for IT security professionals. And, it’s full of your favorite vulnerabilities like SQL Injection, cross-site scripting and so on.
 ---
 ### Attacking Active Directory
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
@@ -221,9 +223,8 @@ https://www.hackthebox.eu/
 * [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
 ---
 ### Vulnerable Machines
-* [Metasploitable 2 Download + Exploitability Guide](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide)
- - The Metasploitable virtual machine is an intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
-* [Metasploitable 3](https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/)
+* [Metasploitable 2 Download + Exploitability Guide](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide) - The Metasploitable virtual machine is an intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
+* [Metasploitable 3](https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/) - Metasploitable3 is a free virtual machine that allows you to simulate attacks largely using Metasploit. It has been used by people in the security industry for a variety of reasons: such as training for network exploitation, exploit development, software testing, technical job interviews, sales demonstrations, or CTF junkies who are looking for kicks, etc :-)
 * [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
