@@ -221,7 +221,9 @@ https://www.hackthebox.eu/
 * [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
 ---
 ### Vulnerable Machines
-
+* [Metasploitable 2 Download + Exploitability Guide](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide)
+The Metasploitable virtual machine is an intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
+* [Metasploitable 3](https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/)
 * [Rebootusers HackLab](https://www.rebootuser.com/?page_id=1041)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Create your own Vulnerable Windows Box](https://www.vulnhub.com/entry/scream_1,47/)
