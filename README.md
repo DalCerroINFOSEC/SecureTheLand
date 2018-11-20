@@ -175,6 +175,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Digital Forensic Challenge Images (Datasets)](https://www.ashemery.com/dfir.html)
 ---
 ### General Penetration Testing
+* [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker)
 * [pwk-cheatsheet](https://github.com/ibr2/pwk-cheatsheet)
 * [Abatchys Blog - How-to-prepare-for-pwkoscp](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md)
