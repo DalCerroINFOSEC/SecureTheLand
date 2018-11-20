@@ -225,6 +225,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [try2hack](http://www.try2hack.nl/)
 * [Samurai Web Testing Framework](https://www.root-me.org/?lang=en)
 * [Vicnum Project](http://vicnum.ciphertechs.com/)
+* [WebGoat](https://github.com/WebGoat/WebGoat)
+* [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 ---
 ### Attacking Active Directory
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
