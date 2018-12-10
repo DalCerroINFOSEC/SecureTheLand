@@ -183,6 +183,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 * [Various PenTesting Cheatsheets Via pentestmonkey](http://pentestmonkey.net/category/cheat-sheet)
 * [Finding Diamonds in the Rough- Parsing for Pentesters](https://bluescreenofjeff.com/2016-07-26-finding-diamonds-in-the-rough-parsing-for-pentesters/)
+* [Hacking Windows shares from Linux with Samba](http://www.madirish.net/59)
 
 ---
 ### Scanning And Reconnaissance
