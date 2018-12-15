@@ -156,6 +156,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 [Basics of Windows Incident Response](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/)
 ---
 ### Digital Forensics
+* [DidierStevens Scripts for conducting analysis](https://github.com/DidierStevens/DidierStevensSuite)
 * [FLARE VM - A Windows Digital Forensics Environment](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
 * [California CyberSecurity Institute 2018 Digital Forensics Training](https://cci.calpoly.edu/events/ccic/2018-df-downloads)
 * [CIRCL Forensics Training](https://www.circl.lu/services/forensic-training-materials/)
