@@ -15,12 +15,12 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Blue Team Resources & Tools](#Blue-Team-Resources-and-Tools)
 * ------Red Team------
 * [General Penetration Testing](#general-penetration-testing)
-* [Local and Remote Enumeration](Local-and-Remote-Enumeration)
+* [Local and Remote Enumeration](#Local-and-Remote-Enumeration)
 * [Local and Remote Exploitation](#Local-and-Remote-Exploitation)
 * [Web-Application-Explotation](#Web-Application-Explotation)
-* [Attacking Wireless](#Attacking-Wireless
+* [Attacking Wireless](#Attacking-Wireless)
 * [Attacking Active Directory](#Attacking-Active-Directory) 
-* [RedTeam Resources and Tools](#RedTeam Resources-and-Tools)
+* [RedTeam Resources and Tools](#RedTeam-Resources-and-Tools)
 ---
 
 ### Youtube Channels, Blogs, and News Sites
