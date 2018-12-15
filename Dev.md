@@ -15,14 +15,12 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Blue Team Resources & Tools](#Blue-Team-Resources-and-Tools)
 * ------Red Team------
 * [General Penetration Testing](#general-penetration-testing)
-* [Scanning and Reconnaissance](#scanning-and-reconnaissance)
-* [Explotation](#exploitation)
-* [Privilege Escalation](#privilege-escalation)
-* [Web App](#web-app) 
-* [Vulnerable Machines](#vulnerable-machines)
-* [Attacking Active Directory](#attacking-active-directory)
-* [Password Lists](#password-lists)
-* [Miscellaneous](#miscellaneous)
+* [Local and Remote Enumeration](Local-and-Remote-Enumeration)
+* [Local and Remote Exploitation](#Local-and-Remote-Exploitation)
+* [Web-Application-Explotation](#Web-Application-Explotation)
+* [Attacking Wireless](#Attacking-Wireless
+* [Attacking Active Directory](#Attacking-Active-Directory) 
+* [RedTeam Resources and Tools](#RedTeam Resources-and-Tools)
 ---
 
 ### Youtube Channels, Blogs, and News Sites
@@ -39,9 +37,11 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Blue Team Resources and Tools
 ---
 ### Red Team
+#### General Penetration Testing
 #### Local and Remote Enumeration
 #### Local and Remote Exploitation
 #### Web Application Explotation
+#### Attacking Wireless
 #### Attacking Active Directory
 #### RedTeam Resources and Tools
 ---
