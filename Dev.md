@@ -10,7 +10,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Threat Research](#threat-research-and-intelligence)
 * [Threat Hunting](#threat-hunting)
 * [Digital Forensics and Incident Response](#Digital-Forensics-and-Incident-Response)
-* [Digital Forensics and Incident Response](#threat-hunting)
 * [Malware Analysis](#Malware-Analysis)
 * [Splunk Resources](#Splunk-Resources)
 * [Blue Team Resources & Tools](#Blue-Team-Resources-and-Tools)
