@@ -47,6 +47,8 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Local and Remote Enumeration
 #### Local and Remote Exploitation
 #### Post Exploitation
+* [Kerberoasting without Mimikatz / harmj0ys blog](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
+Great resource to understanding what Kerberoasting does and how it works in regards to TGT Tickets and the KDC.
 #### Web Application Explotation
 #### Attacking Wireless
 #### Attacking Active Directory
