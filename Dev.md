@@ -6,15 +6,15 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Table of Contents
 * [Youtube Channels, Blogs, and News Sites](#Youtube-Channels,-Blogs,-and-News-Sites)
-------BLUE TEAM------
+* ------BLUE TEAM------
 * [Threat Research](#threat-research-and-intelligence)
 * [Threat Hunting](#threat-hunting)
 * [Digital Forensics and Incident Response](#Digital-Forensics-and-Incident-Response)
 * [Digital Forensics and Incident Response](#threat-hunting)
 * [Malware Analysis](#Malware-Analysis)
 * [Splunk Resources](#Splunk-Resources)
-* [Blue Team Resources & Tools](#Blu-Team-Resources-and-Tools)
-------Red Team------
+* [Blue Team Resources & Tools](#Blue-Team-Resources-and-Tools)
+* ------Red Team------
 * [General Penetration Testing](#general-penetration-testing)
 * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
 * [Explotation](#exploitation)
