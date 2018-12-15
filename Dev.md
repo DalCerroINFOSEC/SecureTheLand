@@ -35,7 +35,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Malware Analysis
 #### Splunk Resources
 #### Blue Team Resources and Tools
-[DidierStevensSuite / github.com](https://github.com/DidierStevens/DidierStevensSuite)
+* [DidierStevensSuite / github.com](https://github.com/DidierStevens/DidierStevensSuite)
 A collection of scripts and executables for anaylying documents, scripts and programs.
 ---
 ### Red Team
