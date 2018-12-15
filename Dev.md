@@ -5,7 +5,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 
 ## Table of Contents
-* [Youtube Channels, Blogs, and News Sites](#Youtube-Channels,-Blogs,-and-News-Sites)
+* [Youtube Channels, Blogs, News Sites, and Other Repos](#Youtube-Channels,-Blogs,-News-Sites,-and-Other-Repos)
 * ------BLUE TEAM------
 * [Threat Research and Intelligence](#threat-research-and-intelligence)
 * [Threat Hunting](#threat-hunting)
@@ -23,7 +23,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [RedTeam Resources and Tools](#RedTeam-Resources-and-Tools)
 ---
 
-### Youtube Channels, Blogs, and News Sites
+### Youtube Channels, Blogs, News Sites, and Other Repos
 #### Youtube Channels
 #### Blogs
 #### News Sites
