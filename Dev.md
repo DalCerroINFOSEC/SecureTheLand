@@ -46,6 +46,7 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 ### Red Team
 #### General Penetration Testing
 #### Local and Remote Enumeration
+* [Scanning for Active Directory Privileges & Privileged Accounts / ADSSecurity](https://adsecurity.org/?p=3658)
 #### Local and Remote Exploitation
 #### Post Exploitation
 #### Web Application Explotation
@@ -60,6 +61,7 @@ Mimikatz guide for blueteam/redteam. Includes command reference as well as detec
 
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound)BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
 * [PowerShell AD Recon / github.com](https://github.com/PyroTek3/PowerShell-AD-Recon)A collection of useful powershell scripts for AD Recon.
 * [PowerSploit / github.com](https://github.com/PowerShellMafia/PowerSploit)PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
