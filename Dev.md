@@ -47,13 +47,13 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Local and Remote Enumeration
 #### Local and Remote Exploitation
 #### Post Exploitation
+#### Web Application Explotation
+#### Attacking Wireless
+#### Attacking Active Directory
 * [Kerberoasting without Mimikatz / harmj0ys blog](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
 Great resource to understanding what Kerberoasting does and how it works in regards to TGT Tickets and the KDC.
 * [Cracking Kerberos TGS Tickets Using Kerberoast ](https://adsecurity.org/?p=2293)
 Great explain and walkthrough on exploiting Kerberos.
-#### Web Application Explotation
-#### Attacking Wireless
-#### Attacking Active Directory
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
