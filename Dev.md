@@ -67,6 +67,7 @@ Mimikatz guide for blueteam/redteam. Includes command reference as well as detec
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory / ADSecurity](https://adsecurity.org/?p=2362)
 * [Kerberos Golden Tickets are Now More Golden / ADSecurity](https://adsecurity.org/?p=1640)
 * [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU&index=59&list=PLStO1VqVBvmHev5qaNDl78oSzuHcXDDsk)
+* [PowerView PowerUsage Series](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-1/) Realwolrd based scenarios, solutions and explanations of PoerView uses.
 
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
