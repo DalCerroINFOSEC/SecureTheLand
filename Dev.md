@@ -58,6 +58,7 @@ Great explain and walkthrough on exploiting Kerberos.
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
 * [PowerShell AD Recon / github.com](https://github.com/PyroTek3/PowerShell-AD-Recon)A collection of useful powershell scripts for AD Recon.
+* [kerberoast](https://github.com/nidem/kerberoast) A series of tools for attacking MS Kerberos.
 ---
 
  
