@@ -37,6 +37,7 @@ List of Awesome Red Team / Red Teaming Resources
 #### Threat Research and Intelligence
 #### Threat Hunting
 #### Digital Forensics and Incident Response
+* [Detecting Forged Kerberos Ticket (Golden Ticket & Silver Ticket) Use in Active Directory / ADSecurity](https://adsecurity.org/?p=1515)
 * [Detecting Kerberoasting Activity / ADSecurity](https://adsecurity.org/?p=3458)
 * [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot / ADSecurity](https://adsecurity.org/?p=3513)
 * [Detecting Offensive PowerShell Attack Tools / ADSecurity](https://adsecurity.org/?p=2604)
