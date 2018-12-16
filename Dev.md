@@ -57,8 +57,9 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Attacking Active Directory
 * [Kerberoasting without Mimikatz / harmj0ys blog](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
 Great resource to understanding what Kerberoasting does and how it works in regards to TGT Tickets and the KDC.
-* [Cracking Kerberos TGS Tickets Using Kerberoast ](https://adsecurity.org/?p=2293)
+* [Cracking Kerberos TGS Tickets Using Kerberoast / ADSecurity](https://adsecurity.org/?p=2293)
 Great explain and walkthrough on exploiting Kerberos.
+* [How Attackers Use Kerberos Silver Tickets to Exploit Systems / ADSecurity](https://adsecurity.org/?p=2011)
 * [Unofficial Guide to Mimikatz & Command Reference / ADSSecurity](https://adsecurity.org/?page_id=1821)
 Mimikatz guide for blueteam/redteam. Includes command reference as well as detecting mimikatz.
 * [Owning NTDS.dit](https://adsecurity.org/?p=2398)How Attackers Dump Active Directory Database Credentials
