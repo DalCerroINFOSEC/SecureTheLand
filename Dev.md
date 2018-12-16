@@ -49,6 +49,8 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Post Exploitation
 * [Kerberoasting without Mimikatz / harmj0ys blog](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
 Great resource to understanding what Kerberoasting does and how it works in regards to TGT Tickets and the KDC.
+* [Cracking Kerberos TGS Tickets Using Kerberoast ](https://adsecurity.org/?p=2293)
+Great explain and walkthrough on exploiting Kerberos.
 #### Web Application Explotation
 #### Attacking Wireless
 #### Attacking Active Directory
