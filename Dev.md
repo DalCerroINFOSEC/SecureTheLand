@@ -22,6 +22,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Attacking Wireless](#Attacking-Wireless)
 * [Attacking Active Directory](#Attacking-Active-Directory) 
 * [RedTeam Resources and Tools](#RedTeam-Resources-and-Tools)
+* [Empire](https://github.com/EmpireProject/Empire)
+Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
 ---
 
 ### Youtube Channels, Blogs, News Sites, and Other Repos
