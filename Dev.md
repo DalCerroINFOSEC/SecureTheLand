@@ -54,6 +54,9 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 Great resource to understanding what Kerberoasting does and how it works in regards to TGT Tickets and the KDC.
 * [Cracking Kerberos TGS Tickets Using Kerberoast ](https://adsecurity.org/?p=2293)
 Great explain and walkthrough on exploiting Kerberos.
+* [Unofficial Guide to Mimikatz & Command Reference / ADSSecurity](https://adsecurity.org/?page_id=1821)
+Mimikatz guide for blueteam/redteam. Includes command reference as well as detecting mimikatz.
+
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
