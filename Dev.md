@@ -75,6 +75,7 @@ Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windo
 * [PowerShell AD Recon / github.com](https://github.com/PyroTek3/PowerShell-AD-Recon)A collection of useful powershell scripts for AD Recon.
 * [PowerSploit / github.com](https://github.com/PowerShellMafia/PowerSploit)PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 * [kerberoast](https://github.com/nidem/kerberoast) A series of tools for attacking MS Kerberos.
+* [Impacket](https://github.com/SecureAuthCorp/impacket)Impacket is a collection of Python classes for working with network protocols. My personal use has been around the SMB scripts.
 ---
 
  
