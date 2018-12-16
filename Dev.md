@@ -62,6 +62,7 @@ Great explain and walkthrough on exploiting Kerberos.
 * [Unofficial Guide to Mimikatz & Command Reference / ADSSecurity](https://adsecurity.org/?page_id=1821)
 Mimikatz guide for blueteam/redteam. Includes command reference as well as detecting mimikatz.
 * [Owning NTDS.dit](https://adsecurity.org/?p=2398)How Attackers Dump Active Directory Database Credentials
+* [Attack Methods for Gaining Domain Admin Rights in Active Directory / ADSecurity](https://adsecurity.org/?p=2362)
 
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
