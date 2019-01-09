@@ -41,6 +41,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Bad IPs](https://www.badips.com/)
 * [Sucuri](https://sitecheck.sucuri.net/)
 * [Threat Crowd](https://www.threatcrowd.org/)
+* [SpamCop](https://www.spamcop.net/bl.shtml)
 * [Spamhaus](https://www.spamhaus.org/lookup/)
 #### Threat Hunting
 #### Open Source Playbooks
