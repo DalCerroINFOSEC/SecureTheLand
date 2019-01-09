@@ -13,6 +13,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Threat Hunting](#threat-hunting)
 * [Detecting Lateral Movement](#detecting-lateral-movement)
 * [Digital Forensics](#digital-forensics)
+* [DFIR Virtual Machines](#dfir-virtual-machines)
 * [General Penetration Testing](#general-penetration-testing)
 * [Scanning and Reconnaissance](#scanning-and-reconnaissance)
 * [Explotation](#exploitation)
