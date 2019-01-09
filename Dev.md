@@ -40,6 +40,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Cymon OSINT](https://cymon.io/)
 * [Bad IPs](https://www.badips.com/)
 * [Sucuri](https://sitecheck.sucuri.net/)
+* [Threat Crowd](https://www.threatcrowd.org/)
 #### Threat Hunting
 #### Open Source Playbooks
 * [CERT Societe Generale / github.com](https://github.com/certsocietegenerale/IRM)
