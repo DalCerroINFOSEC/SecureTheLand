@@ -55,6 +55,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Talos Intelligence](https://talosintelligence.com/)
 * [Threat Crowd](https://www.threatcrowd.org/)
 * [Threat Miner](https://www.threatminer.org/)
+* [TrendMicro SiteSafety](https://global.sitesafety.trendmicro.com/)
 * [valli](http://multirbl.valli.org/) Complete IP check for sending mailservers.
 * [URLQuery](http://urlquery.net/) Scans URL, checks overview information as well as IDS and blacklist information.
 * [URLScan](https://urlscan.io/) Scans URL, gives domain information as well as information on what is on the site.
