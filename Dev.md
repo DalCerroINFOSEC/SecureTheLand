@@ -43,6 +43,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Fortiguard Webfilter](https://fortiguard.com/webfilter)
 * [Hybrid Analysis](https://www.hybrid-analysis.com/)
 * [IBM Xforce Exchange](https://exchange.xforce.ibmcloud.com/)
+* [Norton SafeWeb](https://safeweb.norton.com/)
 * [OTX Alien Vault](https://www.alienvault.com/open-threat-exchange)
 * [Hashedd](https://hashdd.com/)
 * [Cymon OSINT](https://cymon.io/)
