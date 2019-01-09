@@ -36,6 +36,7 @@ List of Awesome Red Team / Red Teaming Resources
 ---
 ### Blue Team
 #### Threat Research and Intelligence
+* [Cymon OSINT](https://cymon.io/)
 #### Threat Hunting
 #### Open Source Playbooks
 * [CERT Societe Generale / github.com](https://github.com/certsocietegenerale/IRM)
