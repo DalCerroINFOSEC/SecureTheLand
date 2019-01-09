@@ -20,6 +20,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Web App](#web-app) 
 * [Vulnerable Machines](#vulnerable-machines)
 * [Attacking Active Directory](#attacking-active-directory)
+* [DNS Tunneling Tools](dns-tunneling-tools)
 * [Password Lists](#password-lists)
 * [Miscellaneous](#miscellaneous)
 ---
@@ -235,6 +236,11 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362#more-2362)
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/)
 * [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/) 
+---
+### DNS Tunneling Tools
+* [DeNiSe](https://github.com/mdornseif/DeNiSe) Python tool for tunneling TCP over DNS.
+* [dns2tcp](https://github.com/alex-sector/dns2tcp) Written in C, supports TXT request types.
+* [DNScapy](https://github.com/FedericoCeratto/dnscapy) Python tool for packet generation. Supports SSH tunnoeling over DNS. 
 ---
 ### Password Lists
 * [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames)
