@@ -66,6 +66,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [CERT Societe Generale / github.com](https://github.com/certsocietegenerale/IRM)
 * [Demisto Playbooks](https://www.demisto.com/resources/)
 * [Incident Response Playbooks](https://www.incidentresponse.com/playbooks/)
+* [ayehu](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
 * [OWASP Playbooks](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Security-Playbooks)
 #### Digital Forensics and Incident Response
 * [Detecting Forged Kerberos Ticket (Golden Ticket & Silver Ticket) Use in Active Directory / ADSecurity](https://adsecurity.org/?p=1515)
