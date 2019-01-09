@@ -39,6 +39,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [AbuseIPDB](https://www.abuseipdb.com/)
 * [apilitiy](https://apility.io/) AS Information, whois lookup, blacklist checks and more.
 * [BrightCloud](https://www.brightcloud.com/tools/url-ip-lookup.php)
+* [Comodo Web Inspector](http://app.webinspector.com/)
 * [OTX Alien Vault](https://www.alienvault.com/open-threat-exchange)
 * [Cymon OSINT](https://cymon.io/)
 * [Bad IPs](https://www.badips.com/)
@@ -46,6 +47,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Threat Crowd](https://www.threatcrowd.org/)
 * [SpamCop](https://www.spamcop.net/bl.shtml)
 * [Spamhaus](https://www.spamhaus.org/lookup/)
+* [Talos Intelligence](https://talosintelligence.com/)
 * [valli](http://multirbl.valli.org/) Complete IP check for sending mailservers.
 * [URLQuery](http://urlquery.net/) Scans URL, checks overview information as well as IDS and blacklist information.
 * [URLScan](https://urlscan.io/) Scans URL, gives domain information as well as information on what is on the site.
