@@ -50,10 +50,11 @@ List of Awesome Red Team / Red Teaming Resources
 * [Joe Sandbox](https://www.joesandbox.com/)
 * [Bad IPs](https://www.badips.com/)
 * [Sucuri](https://sitecheck.sucuri.net/)
-* [Threat Crowd](https://www.threatcrowd.org/)
 * [SpamCop](https://www.spamcop.net/bl.shtml)
 * [Spamhaus](https://www.spamhaus.org/lookup/)
 * [Talos Intelligence](https://talosintelligence.com/)
+* [Threat Crowd](https://www.threatcrowd.org/)
+* [Threat Miner](https://www.threatminer.org/)
 * [valli](http://multirbl.valli.org/) Complete IP check for sending mailservers.
 * [URLQuery](http://urlquery.net/) Scans URL, checks overview information as well as IDS and blacklist information.
 * [URLScan](https://urlscan.io/) Scans URL, gives domain information as well as information on what is on the site.
