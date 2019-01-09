@@ -9,6 +9,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * ------BLUE TEAM------
 * [Threat Research and Intelligence](#threat-research-and-intelligence)
 * [Threat Hunting](#threat-hunting)
+* [Open Source Playbooks](#open-source-playbooks)
 * [Digital Forensics and Incident Response](#Digital-Forensics-and-Incident-Response)
 * [Malware Analysis](#Malware-Analysis)
 * [Splunk Resources](#Splunk-Resources)
@@ -36,6 +37,10 @@ List of Awesome Red Team / Red Teaming Resources
 ### Blue Team
 #### Threat Research and Intelligence
 #### Threat Hunting
+#### Open Source Playbooks
+* [CERT Societe Generale / github.com](https://github.com/certsocietegenerale/IRM)
+* [Demisto Playbooks](https://www.demisto.com/resources/)
+* [Incident Response Playbooks](https://www.incidentresponse.com/playbooks/)
 #### Digital Forensics and Incident Response
 * [Detecting Forged Kerberos Ticket (Golden Ticket & Silver Ticket) Use in Active Directory / ADSecurity](https://adsecurity.org/?p=1515)
 * [Detecting Kerberoasting Activity / ADSecurity](https://adsecurity.org/?p=3458)
