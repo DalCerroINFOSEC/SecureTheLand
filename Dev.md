@@ -40,8 +40,11 @@ List of Awesome Red Team / Red Teaming Resources
 * [apilitiy](https://apility.io/) AS Information, whois lookup, blacklist checks and more.
 * [BrightCloud](https://www.brightcloud.com/tools/url-ip-lookup.php)
 * [Comodo Web Inspector](http://app.webinspector.com/)
+* [Hybrid Analysis](https://www.hybrid-analysis.com/)
+* [IBM Xforce Exchange](https://exchange.xforce.ibmcloud.com/)
 * [OTX Alien Vault](https://www.alienvault.com/open-threat-exchange)
 * [Cymon OSINT](https://cymon.io/)
+* [Joe Sandbox](https://www.joesandbox.com/)
 * [Bad IPs](https://www.badips.com/)
 * [Sucuri](https://sitecheck.sucuri.net/)
 * [Threat Crowd](https://www.threatcrowd.org/)
