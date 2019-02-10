@@ -86,6 +86,12 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Local and Remote Exploitation
 #### Post Exploitation
 #### Web Application Explotation
+[SQL Injection CheatSheel / NetSparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+[All about SQL / SQLWiki](https://sqlwiki.netspi.com/)
+
+[Pwning OWASP Juice Shop / github - BKimminich](https://github.com/bkimminich/pwning-juice-shop/)
+[Juice Shop Walkthrough / github - bsqrl](https://github.com/bsqrl/juice-shop-walkthrough)
+
 #### Attacking Wireless
 #### Attacking Active Directory
 * [Kerberoasting without Mimikatz / harmj0ys blog](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
