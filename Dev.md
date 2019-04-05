@@ -75,6 +75,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot / ADSecurity](https://adsecurity.org/?p=3513)
 * [Detecting Offensive PowerShell Attack Tools / ADSecurity](https://adsecurity.org/?p=2604)
 #### Malware Analysis
+* [2012 dc3 Digital Forensics Challenge Basic / SANS Institute](https://www.sans.org/reading-room/whitepapers/malicious/paper/34330)
 #### Splunk Resources
 #### Blue Team Resources and Tools
 * [DidierStevensSuite / github.com](https://github.com/DidierStevens/DidierStevensSuite)
