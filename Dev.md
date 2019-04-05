@@ -19,6 +19,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Local and Remote Enumeration](#Local-and-Remote-Enumeration)
 * [Local and Remote Exploitation](#Local-and-Remote-Exploitation)
 * [Post Exploitation](#Post-Exploitation)
+* [Lateral Movement](#Lateral-Movement)
 * [Web-Application-Explotation](#Web-Application-Explotation)
 * [Attacking Wireless](#Attacking-Wireless)
 * [Attacking Active Directory](#Attacking-Active-Directory) 
@@ -85,6 +86,8 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 * [Scanning for Active Directory Privileges & Privileged Accounts / ADSSecurity](https://adsecurity.org/?p=3658)
 #### Local and Remote Exploitation
 #### Post Exploitation
+#### Lateral Movement
+* [Tunneling & Pivoting / 0xdf](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
 #### Web Application Explotation
 * [SQL Injection CheatSheel / NetSparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [All about SQL / SQLWiki](https://sqlwiki.netspi.com/)
