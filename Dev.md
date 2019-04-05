@@ -82,8 +82,9 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 ---
 ### Red Team
 #### General Penetration Testing
-* [Sample Penetration Testing Report / Offensive Security](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
+* [Sample Penetration Test Report / Offensive Security](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
 * [Four Things Every Penetration Test Report Should Have / Rhino Security Labs](https://rhinosecuritylabs.com/penetration-testing/four-things-every-penetration-test-report/)
+* [Sample Penetration Test Report / tgbsecurity](https://tbgsecurity.com/wordpress/wp-content/uploads/2016/11/Sample-Penetration-Test-Report.pdf)
 #### Local and Remote Enumeration
 * [Scanning for Active Directory Privileges & Privileged Accounts / ADSSecurity](https://adsecurity.org/?p=3658)
 #### Local and Remote Exploitation
