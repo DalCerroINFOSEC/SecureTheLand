@@ -88,6 +88,7 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Post Exploitation
 #### Lateral Movement
 * [Tunneling & Pivoting / 0xdf](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
+* [Statically Compiled Binaries / github - andrew-d](https://github.com/andrew-d/static-binaries)
 #### Web Application Explotation
 * [SQL Injection CheatSheel / NetSparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [All about SQL / SQLWiki](https://sqlwiki.netspi.com/)
