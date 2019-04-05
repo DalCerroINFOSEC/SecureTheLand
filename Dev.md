@@ -81,6 +81,7 @@ List of Awesome Red Team / Red Teaming Resources
 #### Blue Team Resources and Tools
 * [DidierStevensSuite / github.com](https://github.com/DidierStevens/DidierStevensSuite)
 A collection of scripts and executables for analyzing documents, scripts and programs.
+* [Live Response Collection - Bambiraptor Build / Brimor Labs](https://www.brimorlabs.com/tools/)
 ---
 ### Red Team
 #### General Penetration Testing
