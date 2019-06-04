@@ -23,7 +23,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Command and Control](command-and-control)
 * [Web-Application-Explotation](#Web-Application-Explotation)
 * [Attacking Wireless](#Attacking-Wireless)
-* [Attacking Active Directory](#Attacking-Active-Directory) 
+* [Attacking Active Directory](#Attacking-Active-Directory)
+* [Steganography](#steganography)
 * [RedTeam Resources and Tools](#RedTeam-Resources-and-Tools)
 ---
 
@@ -123,6 +124,9 @@ Mimikatz guide for blueteam/redteam. Includes command reference as well as detec
 * [Kerberos Golden Tickets are Now More Golden / ADSecurity](https://adsecurity.org/?p=1640)
 * [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU&index=59&list=PLStO1VqVBvmHev5qaNDl78oSzuHcXDDsk)
 * [PowerView PowerUsage Series](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-1/) Realwolrd based scenarios, solutions and explanations of PoerView uses.
+#### Steganography
+* [jsteg - popular package for hiding data inside jpeg files](https://github.com/lukechampine/jsteg)
+* [SP3Stego - hide data inside mpeg files](https://www.petitcolas.net/steganography/mp3stego/)
 
 #### RedTeam Resources and Tools
 * [Empire / github.com](https://github.com/EmpireProject/Empire)
