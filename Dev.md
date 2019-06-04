@@ -20,6 +20,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Local and Remote Exploitation](#Local-and-Remote-Exploitation)
 * [Post Exploitation](#Post-Exploitation)
 * [Lateral Movement](#Lateral-Movement)
+* [Command and Control](command-and-control)
 * [Web-Application-Explotation](#Web-Application-Explotation)
 * [Attacking Wireless](#Attacking-Wireless)
 * [Attacking Active Directory](#Attacking-Active-Directory) 
@@ -99,6 +100,8 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 #### Lateral Movement
 * [Tunneling & Pivoting / 0xdf](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
 * [Statically Compiled Binaries / github - andrew-d](https://github.com/andrew-d/static-binaries)
+#### Command and Control
+* [Gcat - C2C over gmail](https://github.com/byt3bl33d3r/gcat)
 #### Web Application Explotation
 * [SQL Injection CheatSheel / NetSparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [All about SQL / SQLWiki](https://sqlwiki.netspi.com/)
@@ -129,6 +132,7 @@ Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windo
 * [PowerSploit / github.com](https://github.com/PowerShellMafia/PowerSploit)PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 * [kerberoast](https://github.com/nidem/kerberoast) A series of tools for attacking MS Kerberos.
 * [Impacket](https://github.com/SecureAuthCorp/impacket)Impacket is a collection of Python classes for working with network protocols. My personal use has been around the SMB scripts.
+* [Create EXE to place code directly into memory and bypass AV](https://pen-testing.sans.org/blog/2013/07/12/anti-virus-evasion-a-peek-under-the-veil/)
 ---
 
  
