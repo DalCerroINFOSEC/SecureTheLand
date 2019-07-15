@@ -32,6 +32,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### Youtube Channels
 #### Blogs
 * [ADSecurity](https://adsecurity.org/)Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…
+* [carnoal0wnage blog](https://carnal0wnage.attackresearch.com/)Penetration testing block at attackresearch.
+* [Flipboard Penetration Testing Repo](https://flipboard.com/@caseygoodrich/penetration-testing-3hv8mlgdy)Great collection of penetration testing resources from flipboard by Casey Goodrich with Erica Zelickowski.
 #### News Sites
 #### Other Repos
 * [Awesome Red Teaming / github.com](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
