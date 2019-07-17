@@ -21,6 +21,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Post Exploitation](#Post-Exploitation)
 * [Lateral Movement](#Lateral-Movement)
 * [Command and Control](command-and-control)
+* [Phishing](#Phishing)
 * [Web-Application-Explotation](#Web-Application-Explotation)
 * [Attacking Wireless](#Attacking-Wireless)
 * [Attacking Active Directory](#Attacking-Active-Directory)
@@ -111,6 +112,8 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 
 * [Pwning OWASP Juice Shop / github - BKimminich](https://github.com/bkimminich/pwning-juice-shop/)
 * [Juice Shop Walkthrough / github - bsqrl](https://github.com/bsqrl/juice-shop-walkthrough)
+#### Phishing
+* [ShellPhish](https://github.com/thelinuxchoice/shellphish)Generates a list for popular most popular social media sites
 
 #### Attacking Wireless
 #### Attacking Active Directory
