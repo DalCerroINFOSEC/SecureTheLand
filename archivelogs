@@ -30,7 +30,6 @@ for item in Path(filesPath).glob('*'):
             newZip.write(base)
             os.remove(item)
 
-print (base)
 newZip.close()
 
 
