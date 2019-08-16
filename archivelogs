@@ -1,0 +1,37 @@
+# This script was created by Dominic Dal Cerro
+# This is a script to compress logs, in one folder, which are older than 7 days
+
+import os, time, sys, zipfile, datetime, arrow
+from pathlib import Path
+
+# This is the path to the folder we are performing tthe archiving on.
+filesPath = r"PLACE FULL PATH HERE"
+
+# Changes to the directory where your logs are located.
+os.chdir(filesPath)
+
+# Gets the time so that we can evaluate how old a file is.
+criticalTime = arrow.now().shift(hours=+5).shift(days=-7)
+
+# Gets the date so that we can name the zip file correctly.
+nowdate = datetime.datetime.now()
+todaysdate = nowdate.strftime('%m%d%Y')
+
+# Creates the archive.
+newZip = zipfile.ZipFile(todaysdate +'Logs.zip', 'w')
+
+# This is going to move files into a zip folder that are older than 7 days
+for item in Path(filesPath).glob('*'):
+    if item.is_file():
+        print (str(item.absolute()))
+        itemTime = arrow.get(item.stat().st_mtime)
+        if itemTime < criticalTime:
+            base = os.path.basename(item)
+            newZip.write(base)
+            os.remove(item)
+
+print (base)
+newZip.close()
+
+
+
