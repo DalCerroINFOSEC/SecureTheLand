@@ -77,6 +77,7 @@ List of Awesome Red Team / Red Teaming Resources
 * [ayehu](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
 * [OWASP Playbooks](https://github.com/OWASP/owasp-summit-2017/tree/master/Working-Sessions/Security-Playbooks)
 #### Digital Forensics and Incident Response
+* [SANS Hunt Evil Lateral Movement Poster](https://digital-forensics.sans.org/media/SANS_Poster_2018_Hunt_Evil_FINAL.pdf)
 * [Detecting Forged Kerberos Ticket (Golden Ticket & Silver Ticket) Use in Active Directory / ADSecurity](https://adsecurity.org/?p=1515)
 * [Detecting Kerberoasting Activity / ADSecurity](https://adsecurity.org/?p=3458)
 * [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot / ADSecurity](https://adsecurity.org/?p=3513)
