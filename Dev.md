@@ -82,6 +82,18 @@ List of Awesome Red Team / Red Teaming Resources
 * [Detecting Kerberoasting Activity / ADSecurity](https://adsecurity.org/?p=3458)
 * [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot / ADSecurity](https://adsecurity.org/?p=3513)
 * [Detecting Offensive PowerShell Attack Tools / ADSecurity](https://adsecurity.org/?p=2604)
+* [Roll Your Own Incident Response with PowerShell / SANS](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1524594407.pdf)
+* [Using PowerShell to Perform Offline Analysis of Security Logs / Microsoft DevBlogs](https://devblogs.microsoft.com/scripting/use-powershell-to-perform-offline-analysis-of-security-logs/?fbclid=IwAR2Tfye_98xvXMUsPtRjeyHzYc5GxGvX3O3zbkiwFrcDo6Ca3eeCb_2fjGA)
+* [Learn the Easy way to Use PowerShell to Get File Hashes / Microsoft DevBlogs](https://devblogs.microsoft.com/scripting/learn-the-easy-way-to-use-powershell-to-get-file-hashes/?fbclid=IwAR12ge7s018ZtbSUHlTHStrd8ndiTsGxDnDt8dJ2jSNcqBLod0TmqMwoiwk)
+* [Use PowerShell to Compute MD5 Hashes and Find Changed Files](https://devblogs.microsoft.com/scripting/use-powershell-to-compute-md5-hashes-and-find-changed-files/?fbclid=IwAR1PbuWCv2p7QVPttgT5JEfqTxVLZIWReHdEeaZcqfQ9VmVWmFTvTSL_phU)
+* [Weekend Scripter: Using PowerShell to Aid in Security Forensics](https://devblogs.microsoft.com/scripting/weekend-scripter-using-powershell-to-aid-in-security-forensics/?fbclid=IwAR2blJH8WOo99TujzECbUHD0Gwi8cCtOuiSi66GShxgIaLM--80NVotu7nk)
+* [Powershell: Forensic One-liners / LDAP389](https://www.ldap389.info/en/2013/06/17/powershell-forensic-onliners-regex-get-eventlog/?fbclid=IwAR1mpO2s64z5v17s4y1B8xKHkfmR2x6_XBqb87B1AD9sHaHE3kUoH-M4lSc)
+* [Live Response Using PowerShell / SANS](https://www.sans.org/reading-room/whitepapers/forensics/paper/34302)
+* [Tip of the Day - Like a Kid in a WMIC Candy Store / SANS](https://isc.sans.edu/diary/Tip+of+the+Day+-+Like+a+Kid+in+a+WMIC+Candy+Store/1622?fbclid=IwAR3ojwu84x7z2p0xI0vPrGc5cupcxVT8tkZIWysdr-Ny4CMt-kJpLQuwxQQ)
+* [WMIC for incident response](https://digital-forensics.sans.org/blog/2010/06/04/wmic-draft?fbclid=IwAR3T35_oxiZdYyGfRQvBFjT-9I7mPFUjbU0j2wjArWIE0aX3LbprKQHxMhA)
+
+
+
 #### Malware Analysis
 * [Malware Unicorn Reverse Engineering Malware Workshop 101 and 102](https://malwareunicorn.org/#/workshops)
 * [ Malicious Code Reading Room / SANS](https://www.sans.org/reading-room/whitepapers/malicious/) 
