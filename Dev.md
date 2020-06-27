@@ -118,6 +118,9 @@ A collection of scripts and executables for analyzing documents, scripts and pro
 * [Windows Post Explotation Command List / GoogleDocs](https://docs.google.com/document/d/1U10isynOpQtrIK6ChuReu-K1WHTJm4fgG3joiuz43rw/edit?hl=en_US#)
 * [Linux/Unix/BSD Post-Exploitation Command List](https://docs.google.com/document/d/1ObQB6hmVvRPCgPTRZM5NMH034VDM-1N-EWPRz2770K4/edit?hl=en_US)
 * [OS-x Post Exploitation Command List](https://docs.google.com/document/d/10AUm_zUdAQGgoHNo_eS0SO1K-24VVYnulUD2x3rJD3k/edit?hl=en_US)
+* [Unix-privesc-checker / Shell Script for Priv Esc possibilities in Linux](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+* [Windows-Privesc-Check / Exe to Audit for Priv Esc](https://github.com/pentestmonkey/windows-privesc-check)
+
 #### Lateral Movement
 * [Tunneling & Pivoting / 0xdf](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
 * [Statically Compiled Binaries / github - andrew-d](https://github.com/andrew-d/static-binaries)
