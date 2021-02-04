@@ -27,5 +27,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
 * [Hunting Methology Splunk Bots BOS - Medium/MHarris](https://medium.com/@haggis_m/hunting-methodology-splunk-bots-boss-of-the-soc-part-1-bcf019386617)
 ### Hunting and Detection Tools and Resources
-#### [Sigma / Github Page](https://github.com/Neo23x0/sigma)
+#### [Sigma | Signature/Detection Format | Github Page](https://github.com/Neo23x0/sigma)
 ###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
+#### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
+###### Atomic Red Team allows every security team to test their controls by executing simple "atomic tests" that exercise the same techniques used by adversaries (all mapped to Mitre's ATT&CK).
