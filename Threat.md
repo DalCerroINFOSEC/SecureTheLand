@@ -28,4 +28,4 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Hunting Methology Splunk Bots BOS - Medium/MHarris](https://medium.com/@haggis_m/hunting-methodology-splunk-bots-boss-of-the-soc-part-1-bcf019386617)
 ### Hunting and Detection Tools and Resources
 #### [Sigma / Github Page](https://github.com/Neo23x0/sigma)
-###### [Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from]
+###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
