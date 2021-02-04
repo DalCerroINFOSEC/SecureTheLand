@@ -43,11 +43,12 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ### Offensive
 #### [Pass-the-Hash Attack | Pass the hash Walkthrough | Hackingarticles.in](https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/)
 ###### Pass-the-Hash (PtH) attack is a technique whereby an attacker captures a password hash (as opposed to the password characters) and then simply passes it through for authentication and potentially lateral access to other networked systems.
+#### [Shadow Move | ired.team](https://www.ired.team/offensive-security/lateral-movement/shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets)
+###### ShadowMove is a lateral movement technique that works by stealing (duplicating) an existing socket connected to a remote host, from a running process on a system an adversary has compromised.
 ## Domain Domination
 ### Offensive
 #### [Domain Controller Skeleton Key | DC Skeleton Key Attack Walkthrough/Backdoor Persistence in Domain | Hackingarticles.in](https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/)
 ###### The Skeleton Key is a particularly scary piece of malware targeted at Active Directory domains to make it alarmingly easy to hijack any account. This malware injects itself into LSASS and creates a master password that will work for any account in the domain. Existing passwords will also continue to work, so it is very difficult to know this attack.
 #### [Introducing Bloodhound 4.0 | SpecterOps.io/Blog ](https://posts.specterops.io/introducing-bloodhound-4-0-the-azure-update-9b2b26c5e350)
 ###### Introducing BloodHound 4.0: The Azure Update. This post is an introduction and background insight to Bloodhound 4.0. BloodHound is an application developed with one purpose: to find relationships within an Active Directory (AD) domain to discover attack paths.
-#### [Shadow Move | ired.team](https://www.ired.team/offensive-security/lateral-movement/shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets)
-###### ShadowMove is a lateral movement technique that works by stealing (duplicating) an existing socket connected to a remote host, from a running process on a system an adversary has compromised.
+
