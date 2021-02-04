@@ -43,3 +43,5 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## Domain Domination
 ### Offensive
 #### [Domain Controller Skeleton Key | DC Skeleton Key Attack Walkthrough/Backdoor Persistence in Domain | Hackingarticles.in](https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/)
+#### [Shadow Move | ired.team](https://www.ired.team/offensive-security/lateral-movement/shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets)
+###### ShadowMove is a lateral movement technique that works by stealing (duplicating) an existing socket connected to a remote host, from a running process on a system an adversary has compromised.
