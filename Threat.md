@@ -35,6 +35,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
 ###### Atomic Red Team allows every security team to test their controls by executing simple "atomic tests" that exercise the same techniques used by adversaries (all mapped to Mitre's ATT&CK).
 
+
 ## Lateral Movement
 ### Offensive
 #### [Pass-the-Hash Attack | Pass the hash Walkthrough | Hackingarticles.in](https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/)
