@@ -34,4 +34,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 ## Lateral Movement
 ### Offensive
-#### [Pass-the-Hash Attack | Pass the hash Walkthrough | HackingArticles.in](https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/)
+#### [Pass-the-Hash Attack | Pass the hash Walkthrough | Hackingarticles.in](https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/)
+
+## Domain Domination
+### Offensive
+#### [Domain Controller Skeleton Key | DC Skeleton Key Attack Walkthrough/Backdoor Persistence in Domain | Hackingarticles.in](https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/)
