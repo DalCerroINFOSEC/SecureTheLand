@@ -29,7 +29,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## Hunting and Detection Tools and Resources
 #### [Getting Started w/ ATT&CK | Operationalizing ATT&CK Based Hunting | Mitre.org/eBook](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf)
 ###### Pulls together the content from MITRES four Getting Started blog posts on Threat Intelligence, Detection and Analytics, Adversary Emulation and Red Teaming, and Assessments and Engineering onto a single convenient package.
-
+#### [Hunting with Jupyter Notebooks | specterops.io](https://posts.specterops.io/threat-hunting-with-jupyter-notebooks-part-1-your-first-notebook-9a99a781fde7)
+###### This post is part of a five-part series which will introduce the concept of utilizing Jupyter Notebooks for a more dynamic, flexible and language-agnostic way to analyze security events, and at the same time help your team document, standardize and share detection playbooks.
 #### [Sigma | Signature/Detection Format | Github Page](https://github.com/Neo23x0/sigma)
 ###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
 #### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
