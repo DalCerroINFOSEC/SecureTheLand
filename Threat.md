@@ -43,5 +43,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## Domain Domination
 ### Offensive
 #### [Domain Controller Skeleton Key | DC Skeleton Key Attack Walkthrough/Backdoor Persistence in Domain | Hackingarticles.in](https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/)
+###### The Skeleton Key is a particularly scary piece of malware targeted at Active Directory domains to make it alarmingly easy to hijack any account. This malware injects itself into LSASS and creates a master password that will work for any account in the domain. Existing passwords will also continue to work, so it is very difficult to know this attack.
 #### [Shadow Move | ired.team](https://www.ired.team/offensive-security/lateral-movement/shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets)
 ###### ShadowMove is a lateral movement technique that works by stealing (duplicating) an existing socket connected to a remote host, from a running process on a system an adversary has compromised.
