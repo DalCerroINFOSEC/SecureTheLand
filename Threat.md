@@ -5,9 +5,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 
 ## Table of Contents
-* [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
-* [Splunk Resources](#splunk-resources)
 * [Hunting and Detection Tools and Resources](#hunting-and-detection-tools-and-resources)
+* [Splunk Resources](#splunk-resources)
+* [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
 ---
 ### Youtube Channels Information Security News Sites and Blogs
 #### Youtube Channels
