@@ -22,7 +22,8 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## Splunk Resources
 * [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
 
-* [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
+#### [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
+###### Explore security investigation use cases in Splunks free, online demo environment.
 #### [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 ###### This free course teaches you how to search and navigate in Splunk, use fields, get statistics from your data, create reports, dashboards, lookups, and alerts. Scenario-based examples and hands-on challenges will enable you to create robust searches, reports, and charts. 
 #### [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
