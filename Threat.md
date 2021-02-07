@@ -54,4 +54,5 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ###### Introducing BloodHound 4.0: The Azure Update. This post is an introduction and background insight to Bloodhound 4.0. BloodHound is an application developed with one purpose: to find relationships within an Active Directory (AD) domain to discover attack paths.
 
 ## OSCP Resources
-#### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum/blob/master/WinEnum.bat)
+#### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum)
+###### Script for Local Windows Enumeration & Privilege Escalation Checks
