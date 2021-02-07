@@ -20,17 +20,13 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 (https://www.youtube.com/user/DEFCONConference/search?query=incident+response)
 * [DefCON Switzerland](https://www.youtube.com/user/defconswitzerland)
 ## Splunk Resources
-#### [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
-###### The Splunk security dataset provides a brief hands on walk through using splunk as an investigation tools against a premade dataset.
-#### [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
-###### Splunks Security Investigation Online Demo Environment provides a dataset to investigate using use cases developed by Splunk in their online demo environment.
-#### [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
-###### This free course provided by Splunk teaches you how to search and navigate in Splunk, use fields, get statistics from your data, create reports, dashboards, lookups, and alerts. Scenario-based examples and hands-on challenges will enable you to create robust searches, reports, and charts
+* [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
+
+* [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
+* [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 * [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
-* [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
-* [SPL - Github/inodee](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries)
-* [Splunk Hunting Searches - Github/Hunt Detect Prevent ](https://github.com/MHaggis/hunt-detect-prevent/blob/master/Splunk/saved_searches)
-* [Hunting Methology Splunk Bots BOS - Medium/MHarris](https://medium.com/@haggis_m/hunting-methodology-splunk-bots-boss-of-the-soc-part-1-bcf019386617)
+#### [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
+###### Get 7 days of access to a pre-populated environment so you can immediately begin exploring the power of Splunk Enterprise Security.
 ## Hunting and Detection Tools and Resources
 #### [Getting Started w/ ATT&CK | Operationalizing ATT&CK Based Hunting | Mitre.org/eBook](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf)
 ###### Pulls together the content from MITRES four Getting Started blog posts on Threat Intelligence, Detection and Analytics, Adversary Emulation and Red Teaming, and Assessments and Engineering onto a single convenient package.
@@ -56,5 +52,4 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ###### Introducing BloodHound 4.0: The Azure Update. This post is an introduction and background insight to Bloodhound 4.0. BloodHound is an application developed with one purpose: to find relationships within an Active Directory (AD) domain to discover attack paths.
 
 ## OSCP Resources
-#### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum)
-###### Script for Local Windows Enumeration & Privilege Escalation Checks
+#### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum/blob/master/WinEnum.bat)
