@@ -10,6 +10,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [Lateral Movement](#lateral-movement)
 * [Domain Domination](#domain-domination)
 * [Youtube Channels Information Security News Sites and Blogs](#youtube-channels-information-security-news-sites-and-blogs)
+* [OSCP Resources](#oscp-resources)
 ---
 ### Youtube Channels Information Security News Sites and Blogs
 #### Youtube Channels
@@ -33,7 +34,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ###### Pulls together the content from MITRES four Getting Started blog posts on Threat Intelligence, Detection and Analytics, Adversary Emulation and Red Teaming, and Assessments and Engineering onto a single convenient package.
 #### [Hunting with Jupyter Notebooks | specterops.io](https://posts.specterops.io/threat-hunting-with-jupyter-notebooks-part-1-your-first-notebook-9a99a781fde7)
 ###### This post is part of a five-part series which will introduce the concept of utilizing Jupyter Notebooks for a more dynamic, flexible and language-agnostic way to analyze security events, and at the same time help your team document, standardize and share detection playbooks.
-#### [Sigma | Signature/Detection Format | Github Page](https://github.com/Neo23x0/sigma)
+#### [Sigma | Signature/Detection Format | Github ](https://github.com/Neo23x0/sigma)
 ###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
 #### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
 ###### Atomic Red Team allows every security team to test their controls by executing simple "atomic tests" that exercise the same techniques used by adversaries (all mapped to Mitre's ATT&CK).
@@ -52,3 +53,5 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### [Introducing Bloodhound 4.0 | SpecterOps.io/Blog ](https://posts.specterops.io/introducing-bloodhound-4-0-the-azure-update-9b2b26c5e350)
 ###### Introducing BloodHound 4.0: The Azure Update. This post is an introduction and background insight to Bloodhound 4.0. BloodHound is an application developed with one purpose: to find relationships within an Active Directory (AD) domain to discover attack paths.
 
+## OSCP Resources
+#### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum/blob/master/WinEnum.bat)
