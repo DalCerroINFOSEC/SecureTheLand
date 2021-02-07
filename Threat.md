@@ -24,7 +24,6 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 
 * [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
 * [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
-* [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
 #### [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
 ###### Get 7 days of access to a pre-populated environment so you can immediately begin exploring the power of Splunk Enterprise Security.
 ## Hunting and Detection Tools and Resources
