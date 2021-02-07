@@ -19,9 +19,9 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 * [SANs DFIR](https://www.youtube.com/channel/UCwSo89W3KgPrid41vskBDYA)
 (https://www.youtube.com/user/DEFCONConference/search?query=incident+response)
 * [DefCON Switzerland](https://www.youtube.com/user/defconswitzerland)
-### Splunk Resources
-* [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
-
+## Splunk Resources
+#### [Splunk Security Dataset Project](http://live.splunk.com/splunk-security-dataset-project)
+###### The Splunk security dataset provides a brief hands on walk through using splunk as an investigation tools against a premade dataset.
 * [Security and Fraud Investigation Demo Environment](https://www.splunk.com/en_us/solutions/solution-areas/security-and-fraud/security-investigation/getting-started.html)
 * [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 * [Hunting with Splunk - The basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
