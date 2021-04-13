@@ -27,6 +27,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 #### [Free Splunk Fundamentals 1 Training Course](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html)
 ###### This free course teaches you how to search and navigate in Splunk, use fields, get statistics from your data, create reports, dashboards, lookups, and alerts. Scenario-based examples and hands-on challenges will enable you to create robust searches, reports, and charts. 
 #### [Splunk Enterprise Security Sandbox 7 Day Trial - Cloud based with pre pop data and dashboards](https://www.splunk.com/page/sign_up/es_sandbox?redirecturl=%2Fgetsplunk%2Fes_sandbox)
+#### [Splunk Enterprise Security - Docker - QUICK SPIN UP](https://github.com/splunk/splunk-ansible#documentation)
 ###### Get 7 days of access to a pre-populated environment so you can immediately begin exploring the power of Splunk Enterprise Security.
 ## Hunting and Detection Tools and Resources
 #### [Getting Started w/ ATT&CK | Operationalizing ATT&CK Based Hunting | Mitre.org/eBook](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf)
@@ -37,6 +38,7 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
 #### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
 ###### Atomic Red Team allows every security team to test their controls by executing simple "atomic tests" that exercise the same techniques used by adversaries (all mapped to Mitre's ATT&CK).
+
 
 
 ## Lateral Movement
