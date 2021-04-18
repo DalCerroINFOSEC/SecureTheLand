@@ -57,3 +57,4 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ## OSCP & Red Team Resources 
 #### [WinEnum | Windows Privilege Escalation Script | Github ](https://github.com/neox41/WinEnum/blob/master/WinEnum.bat)
 #### [Crackstation | Online password cracking website ](https://crackstation.net/)
+#### [PEASS - Privilege Escalation Awesome Scripts SUITE | Win/Lin PrivEsc Automation Tools | Github](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/)
