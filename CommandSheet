@@ -3,7 +3,7 @@ REMOTE ENUMERATION
 -gobuster dir -u http://<ip>:80 -w <wordlist>  
  
  WINDOWS PRIVESC
--accesschk64.exe -wvu "<file location>"  
+accesschk64.exe -wvu "<file location>"  
 Registry PrivEsc-AlwaysInstallElevated  
 reg query HKLM\Software\Policies\Microsoft\Windows\Installer  
 reg query HKCU\Software\Policies\Microsoft\Windows\Installer  
