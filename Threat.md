@@ -38,6 +38,10 @@ A collection of Blue team / Red Team cyber security resources for all fellow pro
 ###### Sigma is a generic and open signature format that allows a standard way to write and share Detections and Queries. This resource can provide valuble detections that you can use to hunt and build detections from.
 #### [Red Canary Atomics | ATT&CK Based Adversary Emulation Test Resource | Github Page](https://github.com/redcanaryco/atomic-red-team)
 ###### Atomic Red Team allows every security team to test their controls by executing simple "atomic tests" that exercise the same techniques used by adversaries (all mapped to Mitre's ATT&CK).
+#### [AttackIQ Academy | Free ATT&CK Training | Github Page](https://academy.attackiq.com/)
+###### In free courses taught by cybersecurity practitioners at the cutting edge of the field, students gain realistic, hands-on experience in building a threat-informed defense to improve cybersecurity effectiveness. AttackIQ Academy includes foundational, intermediate, and advanced courses in operationalizing MITRE ATT&CK®, Uniting Threat and Risk Management with NIST 800-53 and ATT&CK, Purple Teaming, and Breach and Attack Simulation, among others. Detailed learning paths guide students as they achieve course badges and certifications.
+
+
 
 
 
